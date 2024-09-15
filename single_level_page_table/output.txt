@@ -1,0 +1,4000 @@
+Task T1 allocated with 20KB
+Total occupied memory: 20KB
+Hits: 0
+Misses: 5
+Task T1 allocated with 36KB
+Total occupied memory: 56KB
+Hits: 0
+Misses: 14
+Task T1 allocated with 16KB
+Total occupied memory: 72KB
+Hits: 0
+Misses: 18
+Task T1 allocated with 8KB
+Total occupied memory: 80KB
+Hits: 0
+Misses: 20
+Task T1 allocated with 20KB
+Total occupied memory: 100KB
+Hits: 0
+Misses: 25
+Task T1 allocated with 20KB
+Total occupied memory: 120KB
+Hits: 0
+Misses: 30
+Task T1 allocated with 36KB
+Total occupied memory: 156KB
+Hits: 0
+Misses: 39
+Task T1 allocated with 36KB
+Total occupied memory: 192KB
+Hits: 0
+Misses: 48
+Task T1 allocated with 28KB
+Total occupied memory: 220KB
+Hits: 0
+Misses: 55
+Task T1 allocated with 12KB
+Total occupied memory: 232KB
+Hits: 0
+Misses: 58
+Task T1 allocated with 8KB
+Total occupied memory: 240KB
+Hits: 0
+Misses: 60
+Task T1 allocated with 12KB
+Total occupied memory: 252KB
+Hits: 0
+Misses: 63
+Task T1 allocated with 12KB
+Total occupied memory: 264KB
+Hits: 0
+Misses: 66
+Task T1 allocated with 12KB
+Total occupied memory: 276KB
+Hits: 0
+Misses: 69
+Task T1 allocated with 28KB
+Total occupied memory: 304KB
+Hits: 0
+Misses: 76
+Task T1 allocated with 28KB
+Total occupied memory: 332KB
+Hits: 0
+Misses: 83
+Task T1 allocated with 24KB
+Total occupied memory: 356KB
+Hits: 0
+Misses: 89
+Task T1 allocated with 28KB
+Total occupied memory: 384KB
+Hits: 0
+Misses: 96
+Task T1 allocated with 20KB
+Total occupied memory: 404KB
+Hits: 0
+Misses: 101
+Task T1 allocated with 32KB
+Total occupied memory: 436KB
+Hits: 0
+Misses: 109
+Task T1 allocated with 32KB
+Total occupied memory: 468KB
+Hits: 0
+Misses: 117
+Task T1 allocated with 16KB
+Total occupied memory: 484KB
+Hits: 0
+Misses: 121
+Task T1 allocated with 20KB
+Total occupied memory: 504KB
+Hits: 0
+Misses: 126
+Task T1 allocated with 36KB
+Total occupied memory: 540KB
+Hits: 0
+Misses: 135
+Task T1 allocated with 16KB
+Total occupied memory: 556KB
+Hits: 0
+Misses: 139
+Task T1 allocated with 32KB
+Total occupied memory: 588KB
+Hits: 0
+Misses: 147
+Task T1 allocated with 28KB
+Total occupied memory: 616KB
+Hits: 0
+Misses: 154
+Task T1 allocated with 4KB
+Total occupied memory: 620KB
+Hits: 0
+Misses: 155
+Task T1 allocated with 28KB
+Total occupied memory: 648KB
+Hits: 0
+Misses: 162
+Task T1 allocated with 40KB
+Total occupied memory: 688KB
+Hits: 0
+Misses: 172
+Task T1 allocated with 28KB
+Total occupied memory: 716KB
+Hits: 0
+Misses: 179
+Task T1 allocated with 8KB
+Total occupied memory: 724KB
+Hits: 0
+Misses: 181
+Task T1 allocated with 8KB
+Total occupied memory: 732KB
+Hits: 0
+Misses: 183
+Task T1 allocated with 12KB
+Total occupied memory: 744KB
+Hits: 0
+Misses: 186
+Task T1 allocated with 8KB
+Total occupied memory: 752KB
+Hits: 0
+Misses: 188
+Task T1 allocated with 32KB
+Total occupied memory: 784KB
+Hits: 0
+Misses: 196
+Task T1 allocated with 8KB
+Total occupied memory: 792KB
+Hits: 0
+Misses: 198
+Task T1 allocated with 4KB
+Total occupied memory: 796KB
+Hits: 0
+Misses: 199
+Task T1 allocated with 28KB
+Total occupied memory: 824KB
+Hits: 0
+Misses: 206
+Task T1 allocated with 36KB
+Total occupied memory: 860KB
+Hits: 0
+Misses: 215
+Task T1 allocated with 24KB
+Total occupied memory: 884KB
+Hits: 0
+Misses: 221
+Task T1 allocated with 36KB
+Total occupied memory: 920KB
+Hits: 0
+Misses: 230
+Task T1 allocated with 40KB
+Total occupied memory: 960KB
+Hits: 0
+Misses: 240
+Task T1 allocated with 16KB
+Total occupied memory: 976KB
+Hits: 0
+Misses: 244
+Task T1 allocated with 16KB
+Total occupied memory: 992KB
+Hits: 0
+Misses: 248
+Task T1 allocated with 12KB
+Total occupied memory: 1004KB
+Hits: 0
+Misses: 251
+Task T1 allocated with 40KB
+Total occupied memory: 1044KB
+Hits: 0
+Misses: 261
+Task T1 allocated with 40KB
+Total occupied memory: 1084KB
+Hits: 0
+Misses: 271
+Task T1 allocated with 12KB
+Total occupied memory: 1096KB
+Hits: 0
+Misses: 274
+Task T1 allocated with 40KB
+Total occupied memory: 1136KB
+Hits: 0
+Misses: 284
+Task T1 allocated with 28KB
+Total occupied memory: 1164KB
+Hits: 0
+Misses: 291
+Task T1 allocated with 24KB
+Total occupied memory: 1188KB
+Hits: 0
+Misses: 297
+Task T1 allocated with 28KB
+Total occupied memory: 1216KB
+Hits: 0
+Misses: 304
+Task T1 allocated with 4KB
+Total occupied memory: 1220KB
+Hits: 0
+Misses: 305
+Task T1 allocated with 32KB
+Total occupied memory: 1252KB
+Hits: 0
+Misses: 313
+Task T1 allocated with 28KB
+Total occupied memory: 1280KB
+Hits: 0
+Misses: 320
+Task T1 allocated with 8KB
+Total occupied memory: 1288KB
+Hits: 0
+Misses: 322
+Task T1 allocated with 20KB
+Total occupied memory: 1308KB
+Hits: 0
+Misses: 327
+Task T1 allocated with 36KB
+Total occupied memory: 1344KB
+Hits: 0
+Misses: 336
+Task T1 allocated with 36KB
+Total occupied memory: 1380KB
+Hits: 0
+Misses: 345
+Task T1 allocated with 28KB
+Total occupied memory: 1408KB
+Hits: 0
+Misses: 352
+Task T1 allocated with 24KB
+Total occupied memory: 1432KB
+Hits: 0
+Misses: 358
+Task T1 allocated with 4KB
+Total occupied memory: 1436KB
+Hits: 0
+Misses: 359
+Task T1 allocated with 8KB
+Total occupied memory: 1444KB
+Hits: 0
+Misses: 361
+Task T1 allocated with 8KB
+Total occupied memory: 1452KB
+Hits: 0
+Misses: 363
+Task T1 allocated with 8KB
+Total occupied memory: 1460KB
+Hits: 0
+Misses: 365
+Task T1 allocated with 24KB
+Total occupied memory: 1484KB
+Hits: 0
+Misses: 371
+Task T1 allocated with 36KB
+Total occupied memory: 1520KB
+Hits: 0
+Misses: 380
+Task T1 allocated with 4KB
+Total occupied memory: 1524KB
+Hits: 0
+Misses: 381
+Task T1 allocated with 40KB
+Total occupied memory: 1564KB
+Hits: 0
+Misses: 391
+Task T1 allocated with 36KB
+Total occupied memory: 1600KB
+Hits: 0
+Misses: 400
+Task T1 allocated with 8KB
+Total occupied memory: 1608KB
+Hits: 0
+Misses: 402
+Task T1 allocated with 28KB
+Total occupied memory: 1636KB
+Hits: 0
+Misses: 409
+Task T1 allocated with 24KB
+Total occupied memory: 1660KB
+Hits: 0
+Misses: 415
+Task T1 allocated with 4KB
+Total occupied memory: 1664KB
+Hits: 0
+Misses: 416
+Task T1 allocated with 32KB
+Total occupied memory: 1696KB
+Hits: 0
+Misses: 424
+Task T1 allocated with 36KB
+Total occupied memory: 1732KB
+Hits: 0
+Misses: 433
+Task T1 allocated with 40KB
+Total occupied memory: 1772KB
+Hits: 0
+Misses: 443
+Task T1 allocated with 24KB
+Total occupied memory: 1796KB
+Hits: 0
+Misses: 449
+Task T1 allocated with 20KB
+Total occupied memory: 1816KB
+Hits: 0
+Misses: 454
+Task T1 allocated with 4KB
+Total occupied memory: 1820KB
+Hits: 0
+Misses: 455
+Task T1 allocated with 36KB
+Total occupied memory: 1856KB
+Hits: 0
+Misses: 464
+Task T1 allocated with 40KB
+Total occupied memory: 1896KB
+Hits: 0
+Misses: 474
+Task T1 allocated with 24KB
+Total occupied memory: 1920KB
+Hits: 0
+Misses: 480
+Task T1 allocated with 24KB
+Total occupied memory: 1944KB
+Hits: 0
+Misses: 486
+Task T1 allocated with 32KB
+Total occupied memory: 1976KB
+Hits: 0
+Misses: 494
+Task T1 allocated with 36KB
+Total occupied memory: 2012KB
+Hits: 0
+Misses: 503
+Task T1 allocated with 28KB
+Total occupied memory: 2040KB
+Hits: 0
+Misses: 510
+Task T1 allocated with 28KB
+Total occupied memory: 2068KB
+Hits: 0
+Misses: 517
+Task T1 allocated with 16KB
+Total occupied memory: 2084KB
+Hits: 0
+Misses: 521
+Task T1 allocated with 8KB
+Total occupied memory: 2092KB
+Hits: 0
+Misses: 523
+Task T1 allocated with 40KB
+Total occupied memory: 2132KB
+Hits: 0
+Misses: 533
+Task T1 allocated with 40KB
+Total occupied memory: 2172KB
+Hits: 0
+Misses: 543
+Task T1 allocated with 28KB
+Total occupied memory: 2200KB
+Hits: 0
+Misses: 550
+Task T1 allocated with 36KB
+Total occupied memory: 2236KB
+Hits: 0
+Misses: 559
+Task T1 allocated with 20KB
+Total occupied memory: 2256KB
+Hits: 0
+Misses: 564
+Task T1 allocated with 28KB
+Total occupied memory: 2284KB
+Hits: 0
+Misses: 571
+Task T1 allocated with 28KB
+Total occupied memory: 2312KB
+Hits: 0
+Misses: 578
+Task T1 allocated with 36KB
+Total occupied memory: 2348KB
+Hits: 0
+Misses: 587
+Task T1 allocated with 20KB
+Total occupied memory: 2368KB
+Hits: 0
+Misses: 592
+Task T1 allocated with 20KB
+Total occupied memory: 2388KB
+Hits: 0
+Misses: 597
+Task T1 allocated with 32KB
+Total occupied memory: 2420KB
+Hits: 0
+Misses: 605
+Task T1 allocated with 32KB
+Total occupied memory: 2452KB
+Hits: 0
+Misses: 613
+Task T1 allocated with 28KB
+Total occupied memory: 2480KB
+Hits: 0
+Misses: 620
+Task T1 allocated with 8KB
+Total occupied memory: 2488KB
+Hits: 0
+Misses: 622
+Task T1 allocated with 36KB
+Total occupied memory: 2524KB
+Hits: 0
+Misses: 631
+Task T1 allocated with 4KB
+Total occupied memory: 2528KB
+Hits: 0
+Misses: 632
+Task T1 allocated with 24KB
+Total occupied memory: 2552KB
+Hits: 0
+Misses: 638
+Task T1 allocated with 12KB
+Total occupied memory: 2564KB
+Hits: 0
+Misses: 641
+Task T1 allocated with 24KB
+Total occupied memory: 2588KB
+Hits: 0
+Misses: 647
+Task T1 allocated with 36KB
+Total occupied memory: 2624KB
+Hits: 0
+Misses: 656
+Task T1 allocated with 4KB
+Total occupied memory: 2628KB
+Hits: 0
+Misses: 657
+Task T1 allocated with 28KB
+Total occupied memory: 2656KB
+Hits: 0
+Misses: 664
+Task T1 allocated with 40KB
+Total occupied memory: 2696KB
+Hits: 0
+Misses: 674
+Task T1 allocated with 28KB
+Total occupied memory: 2724KB
+Hits: 0
+Misses: 681
+Task T1 allocated with 4KB
+Total occupied memory: 2728KB
+Hits: 0
+Misses: 682
+Task T1 allocated with 20KB
+Total occupied memory: 2748KB
+Hits: 0
+Misses: 687
+Task T1 allocated with 24KB
+Total occupied memory: 2772KB
+Hits: 0
+Misses: 693
+Task T1 allocated with 20KB
+Total occupied memory: 2792KB
+Hits: 0
+Misses: 698
+Task T1 allocated with 8KB
+Total occupied memory: 2800KB
+Hits: 0
+Misses: 700
+Task T1 allocated with 4KB
+Total occupied memory: 2804KB
+Hits: 0
+Misses: 701
+Task T1 allocated with 12KB
+Total occupied memory: 2816KB
+Hits: 0
+Misses: 704
+Task T1 allocated with 28KB
+Total occupied memory: 2844KB
+Hits: 0
+Misses: 711
+Task T1 allocated with 32KB
+Total occupied memory: 2876KB
+Hits: 0
+Misses: 719
+Task T1 allocated with 16KB
+Total occupied memory: 2892KB
+Hits: 0
+Misses: 723
+Task T1 allocated with 40KB
+Total occupied memory: 2932KB
+Hits: 0
+Misses: 733
+Task T1 allocated with 16KB
+Total occupied memory: 2948KB
+Hits: 0
+Misses: 737
+Task T1 allocated with 16KB
+Total occupied memory: 2964KB
+Hits: 0
+Misses: 741
+Task T1 allocated with 16KB
+Total occupied memory: 2980KB
+Hits: 0
+Misses: 745
+Task T1 allocated with 32KB
+Total occupied memory: 3012KB
+Hits: 0
+Misses: 753
+Task T1 allocated with 12KB
+Total occupied memory: 3024KB
+Hits: 0
+Misses: 756
+Task T1 allocated with 4KB
+Total occupied memory: 3028KB
+Hits: 0
+Misses: 757
+Task T1 allocated with 16KB
+Total occupied memory: 3044KB
+Hits: 0
+Misses: 761
+Task T1 allocated with 24KB
+Total occupied memory: 3068KB
+Hits: 0
+Misses: 767
+Task T1 allocated with 12KB
+Total occupied memory: 3080KB
+Hits: 0
+Misses: 770
+Task T1 allocated with 8KB
+Total occupied memory: 3088KB
+Hits: 0
+Misses: 772
+Task T1 allocated with 24KB
+Total occupied memory: 3112KB
+Hits: 0
+Misses: 778
+Task T1 allocated with 28KB
+Total occupied memory: 3140KB
+Hits: 0
+Misses: 785
+Task T1 allocated with 20KB
+Total occupied memory: 3160KB
+Hits: 0
+Misses: 790
+Task T1 allocated with 24KB
+Total occupied memory: 3184KB
+Hits: 0
+Misses: 796
+Task T1 allocated with 32KB
+Total occupied memory: 3216KB
+Hits: 0
+Misses: 804
+Task T1 allocated with 8KB
+Total occupied memory: 3224KB
+Hits: 0
+Misses: 806
+Task T1 allocated with 40KB
+Total occupied memory: 3264KB
+Hits: 0
+Misses: 816
+Task T1 allocated with 36KB
+Total occupied memory: 3300KB
+Hits: 0
+Misses: 825
+Task T1 allocated with 20KB
+Total occupied memory: 3320KB
+Hits: 0
+Misses: 830
+Task T1 allocated with 36KB
+Total occupied memory: 3356KB
+Hits: 0
+Misses: 839
+Task T1 allocated with 36KB
+Total occupied memory: 3392KB
+Hits: 0
+Misses: 848
+Task T1 allocated with 28KB
+Total occupied memory: 3420KB
+Hits: 0
+Misses: 855
+Task T1 allocated with 4KB
+Total occupied memory: 3424KB
+Hits: 0
+Misses: 856
+Task T1 allocated with 4KB
+Total occupied memory: 3428KB
+Hits: 0
+Misses: 857
+Task T1 allocated with 20KB
+Total occupied memory: 3448KB
+Hits: 0
+Misses: 862
+Task T1 allocated with 4KB
+Total occupied memory: 3452KB
+Hits: 0
+Misses: 863
+Task T1 allocated with 12KB
+Total occupied memory: 3464KB
+Hits: 0
+Misses: 866
+Task T1 allocated with 20KB
+Total occupied memory: 3484KB
+Hits: 0
+Misses: 871
+Task T1 allocated with 36KB
+Total occupied memory: 3520KB
+Hits: 0
+Misses: 880
+Task T1 allocated with 12KB
+Total occupied memory: 3532KB
+Hits: 0
+Misses: 883
+Task T1 allocated with 36KB
+Total occupied memory: 3568KB
+Hits: 0
+Misses: 892
+Task T1 allocated with 16KB
+Total occupied memory: 3584KB
+Hits: 0
+Misses: 896
+Task T1 allocated with 12KB
+Total occupied memory: 3596KB
+Hits: 0
+Misses: 899
+Task T1 allocated with 8KB
+Total occupied memory: 3604KB
+Hits: 0
+Misses: 901
+Task T1 allocated with 28KB
+Total occupied memory: 3632KB
+Hits: 0
+Misses: 908
+Task T1 allocated with 16KB
+Total occupied memory: 3648KB
+Hits: 0
+Misses: 912
+Task T1 allocated with 16KB
+Total occupied memory: 3664KB
+Hits: 0
+Misses: 916
+Task T1 allocated with 20KB
+Total occupied memory: 3684KB
+Hits: 0
+Misses: 921
+Task T1 allocated with 24KB
+Total occupied memory: 3708KB
+Hits: 0
+Misses: 927
+Task T1 allocated with 12KB
+Total occupied memory: 3720KB
+Hits: 0
+Misses: 930
+Task T1 allocated with 4KB
+Total occupied memory: 3724KB
+Hits: 0
+Misses: 931
+Task T1 allocated with 40KB
+Total occupied memory: 3764KB
+Hits: 0
+Misses: 941
+Task T1 allocated with 4KB
+Total occupied memory: 3768KB
+Hits: 0
+Misses: 942
+Task T1 allocated with 32KB
+Total occupied memory: 3800KB
+Hits: 0
+Misses: 950
+Task T1 allocated with 24KB
+Total occupied memory: 3824KB
+Hits: 0
+Misses: 956
+Task T1 allocated with 36KB
+Total occupied memory: 3860KB
+Hits: 0
+Misses: 965
+Task T1 allocated with 32KB
+Total occupied memory: 3892KB
+Hits: 0
+Misses: 973
+Task T1 allocated with 8KB
+Total occupied memory: 3900KB
+Hits: 0
+Misses: 975
+Task T1 allocated with 4KB
+Total occupied memory: 3904KB
+Hits: 0
+Misses: 976
+Task T1 allocated with 12KB
+Total occupied memory: 3916KB
+Hits: 0
+Misses: 979
+Task T1 allocated with 8KB
+Total occupied memory: 3924KB
+Hits: 0
+Misses: 981
+Task T1 allocated with 36KB
+Total occupied memory: 3960KB
+Hits: 0
+Misses: 990
+Task T1 allocated with 4KB
+Total occupied memory: 3964KB
+Hits: 0
+Misses: 991
+Task T1 allocated with 8KB
+Total occupied memory: 3972KB
+Hits: 0
+Misses: 993
+Task T1 allocated with 24KB
+Total occupied memory: 3996KB
+Hits: 0
+Misses: 999
+Task T1 allocated with 20KB
+Total occupied memory: 4016KB
+Hits: 0
+Misses: 1004
+Task T1 allocated with 4KB
+Total occupied memory: 4020KB
+Hits: 0
+Misses: 1005
+Task T1 allocated with 20KB
+Total occupied memory: 4040KB
+Hits: 0
+Misses: 1010
+Task T1 allocated with 32KB
+Total occupied memory: 4072KB
+Hits: 0
+Misses: 1018
+Task T1 allocated with 40KB
+Total occupied memory: 4112KB
+Hits: 0
+Misses: 1028
+Task T1 allocated with 8KB
+Total occupied memory: 4120KB
+Hits: 0
+Misses: 1030
+Task T1 allocated with 32KB
+Total occupied memory: 4152KB
+Hits: 0
+Misses: 1038
+Task T1 allocated with 28KB
+Total occupied memory: 4180KB
+Hits: 0
+Misses: 1045
+Task T1 allocated with 36KB
+Total occupied memory: 4216KB
+Hits: 0
+Misses: 1054
+Task T1 allocated with 40KB
+Total occupied memory: 4256KB
+Hits: 0
+Misses: 1064
+Task T1 allocated with 36KB
+Total occupied memory: 4292KB
+Hits: 0
+Misses: 1073
+Task T1 allocated with 40KB
+Total occupied memory: 4332KB
+Hits: 0
+Misses: 1083
+Task T1 allocated with 8KB
+Total occupied memory: 4340KB
+Hits: 0
+Misses: 1085
+Task T1 allocated with 40KB
+Total occupied memory: 4380KB
+Hits: 0
+Misses: 1095
+Task T1 allocated with 4KB
+Total occupied memory: 4384KB
+Hits: 0
+Misses: 1096
+Task T1 allocated with 4KB
+Total occupied memory: 4388KB
+Hits: 0
+Misses: 1097
+Task T1 allocated with 28KB
+Total occupied memory: 4416KB
+Hits: 0
+Misses: 1104
+Task T1 allocated with 32KB
+Total occupied memory: 4448KB
+Hits: 0
+Misses: 1112
+Task T1 allocated with 36KB
+Total occupied memory: 4484KB
+Hits: 0
+Misses: 1121
+Task T1 allocated with 8KB
+Total occupied memory: 4492KB
+Hits: 0
+Misses: 1123
+Task T1 allocated with 28KB
+Total occupied memory: 4520KB
+Hits: 0
+Misses: 1130
+Task T1 allocated with 16KB
+Total occupied memory: 4536KB
+Hits: 0
+Misses: 1134
+Task T1 allocated with 8KB
+Total occupied memory: 4544KB
+Hits: 0
+Misses: 1136
+Task T1 allocated with 8KB
+Total occupied memory: 4552KB
+Hits: 0
+Misses: 1138
+Task T1 allocated with 32KB
+Total occupied memory: 4584KB
+Hits: 0
+Misses: 1146
+Task T1 allocated with 8KB
+Total occupied memory: 4592KB
+Hits: 0
+Misses: 1148
+Task T1 allocated with 20KB
+Total occupied memory: 4612KB
+Hits: 0
+Misses: 1153
+Task T1 allocated with 12KB
+Total occupied memory: 4624KB
+Hits: 0
+Misses: 1156
+Task T1 allocated with 20KB
+Total occupied memory: 4644KB
+Hits: 0
+Misses: 1161
+Task T1 allocated with 4KB
+Total occupied memory: 4648KB
+Hits: 0
+Misses: 1162
+Task T1 allocated with 12KB
+Total occupied memory: 4660KB
+Hits: 0
+Misses: 1165
+Task T1 allocated with 28KB
+Total occupied memory: 4688KB
+Hits: 0
+Misses: 1172
+Task T1 allocated with 4KB
+Total occupied memory: 4692KB
+Hits: 0
+Misses: 1173
+Task T1 allocated with 4KB
+Total occupied memory: 4696KB
+Hits: 0
+Misses: 1174
+Task T1 allocated with 24KB
+Total occupied memory: 4720KB
+Hits: 0
+Misses: 1180
+Task T1 allocated with 12KB
+Total occupied memory: 4732KB
+Hits: 0
+Misses: 1183
+Task T1 allocated with 24KB
+Total occupied memory: 4756KB
+Hits: 0
+Misses: 1189
+Task T1 allocated with 8KB
+Total occupied memory: 4764KB
+Hits: 0
+Misses: 1191
+Task T1 allocated with 40KB
+Total occupied memory: 4804KB
+Hits: 0
+Misses: 1201
+Task T1 allocated with 36KB
+Total occupied memory: 4840KB
+Hits: 0
+Misses: 1210
+Task T1 allocated with 12KB
+Total occupied memory: 4852KB
+Hits: 0
+Misses: 1213
+Task T1 allocated with 24KB
+Total occupied memory: 4876KB
+Hits: 0
+Misses: 1219
+Task T1 allocated with 8KB
+Total occupied memory: 4884KB
+Hits: 0
+Misses: 1221
+Task T1 allocated with 28KB
+Total occupied memory: 4912KB
+Hits: 0
+Misses: 1228
+Task T1 allocated with 8KB
+Total occupied memory: 4920KB
+Hits: 0
+Misses: 1230
+Task T1 allocated with 20KB
+Total occupied memory: 4940KB
+Hits: 0
+Misses: 1235
+Task T1 allocated with 20KB
+Total occupied memory: 4960KB
+Hits: 0
+Misses: 1240
+Task T1 allocated with 12KB
+Total occupied memory: 4972KB
+Hits: 0
+Misses: 1243
+Task T1 allocated with 16KB
+Total occupied memory: 4988KB
+Hits: 0
+Misses: 1247
+Task T1 allocated with 20KB
+Total occupied memory: 5008KB
+Hits: 0
+Misses: 1252
+Task T1 allocated with 24KB
+Total occupied memory: 5032KB
+Hits: 0
+Misses: 1258
+Task T1 allocated with 40KB
+Total occupied memory: 5072KB
+Hits: 0
+Misses: 1268
+Task T1 allocated with 4KB
+Total occupied memory: 5076KB
+Hits: 0
+Misses: 1269
+Task T1 allocated with 28KB
+Total occupied memory: 5104KB
+Hits: 0
+Misses: 1276
+Task T1 allocated with 20KB
+Total occupied memory: 5124KB
+Hits: 0
+Misses: 1281
+Task T1 allocated with 12KB
+Total occupied memory: 5136KB
+Hits: 0
+Misses: 1284
+Task T1 allocated with 16KB
+Total occupied memory: 5152KB
+Hits: 0
+Misses: 1288
+Task T1 allocated with 40KB
+Total occupied memory: 5192KB
+Hits: 0
+Misses: 1298
+Task T1 allocated with 28KB
+Total occupied memory: 5220KB
+Hits: 0
+Misses: 1305
+Task T1 allocated with 8KB
+Total occupied memory: 5228KB
+Hits: 0
+Misses: 1307
+Task T1 allocated with 40KB
+Total occupied memory: 5268KB
+Hits: 0
+Misses: 1317
+Task T1 allocated with 8KB
+Total occupied memory: 5276KB
+Hits: 0
+Misses: 1319
+Task T1 allocated with 20KB
+Total occupied memory: 5296KB
+Hits: 0
+Misses: 1324
+Task T1 allocated with 36KB
+Total occupied memory: 5332KB
+Hits: 0
+Misses: 1333
+Task T1 allocated with 12KB
+Total occupied memory: 5344KB
+Hits: 0
+Misses: 1336
+Task T1 allocated with 32KB
+Total occupied memory: 5376KB
+Hits: 0
+Misses: 1344
+Task T1 allocated with 28KB
+Total occupied memory: 5404KB
+Hits: 0
+Misses: 1351
+Task T1 allocated with 20KB
+Total occupied memory: 5424KB
+Hits: 0
+Misses: 1356
+Task T1 allocated with 32KB
+Total occupied memory: 5456KB
+Hits: 0
+Misses: 1364
+Task T1 allocated with 4KB
+Total occupied memory: 5460KB
+Hits: 0
+Misses: 1365
+Task T1 allocated with 40KB
+Total occupied memory: 5500KB
+Hits: 0
+Misses: 1375
+Task T1 allocated with 24KB
+Total occupied memory: 5524KB
+Hits: 0
+Misses: 1381
+Task T1 allocated with 4KB
+Total occupied memory: 5528KB
+Hits: 0
+Misses: 1382
+Task T1 allocated with 4KB
+Total occupied memory: 5532KB
+Hits: 0
+Misses: 1383
+Task T1 allocated with 8KB
+Total occupied memory: 5540KB
+Hits: 0
+Misses: 1385
+Task T1 allocated with 40KB
+Total occupied memory: 5572KB
+Hits: 2
+Misses: 1393
+Task T1 allocated with 24KB
+Total occupied memory: 5596KB
+Hits: 2
+Misses: 1399
+Task T1 allocated with 8KB
+Total occupied memory: 5604KB
+Hits: 2
+Misses: 1401
+Task T1 allocated with 8KB
+Total occupied memory: 5612KB
+Hits: 2
+Misses: 1403
+Task T1 allocated with 24KB
+Total occupied memory: 5636KB
+Hits: 2
+Misses: 1409
+Task T1 allocated with 4KB
+Total occupied memory: 5640KB
+Hits: 2
+Misses: 1410
+Task T1 allocated with 32KB
+Total occupied memory: 5672KB
+Hits: 2
+Misses: 1418
+Task T1 allocated with 40KB
+Total occupied memory: 5712KB
+Hits: 2
+Misses: 1428
+Task T1 allocated with 12KB
+Total occupied memory: 5724KB
+Hits: 2
+Misses: 1431
+Task T1 allocated with 40KB
+Total occupied memory: 5764KB
+Hits: 2
+Misses: 1441
+Task T1 allocated with 12KB
+Total occupied memory: 5776KB
+Hits: 2
+Misses: 1444
+Task T1 allocated with 28KB
+Total occupied memory: 5804KB
+Hits: 2
+Misses: 1451
+Task T1 allocated with 8KB
+Total occupied memory: 5812KB
+Hits: 2
+Misses: 1453
+Task T1 allocated with 36KB
+Total occupied memory: 5848KB
+Hits: 2
+Misses: 1462
+Task T1 allocated with 28KB
+Total occupied memory: 5876KB
+Hits: 2
+Misses: 1469
+Task T1 allocated with 32KB
+Total occupied memory: 5908KB
+Hits: 2
+Misses: 1477
+Task T1 allocated with 16KB
+Total occupied memory: 5924KB
+Hits: 2
+Misses: 1481
+Task T1 allocated with 16KB
+Total occupied memory: 5940KB
+Hits: 2
+Misses: 1485
+Task T1 allocated with 28KB
+Total occupied memory: 5968KB
+Hits: 2
+Misses: 1492
+Task T1 allocated with 24KB
+Total occupied memory: 5992KB
+Hits: 2
+Misses: 1498
+Task T1 allocated with 24KB
+Total occupied memory: 6016KB
+Hits: 2
+Misses: 1504
+Task T1 allocated with 20KB
+Total occupied memory: 6036KB
+Hits: 2
+Misses: 1509
+Task T1 allocated with 4KB
+Total occupied memory: 6040KB
+Hits: 2
+Misses: 1510
+Task T1 allocated with 40KB
+Total occupied memory: 6080KB
+Hits: 2
+Misses: 1520
+Task T1 allocated with 24KB
+Total occupied memory: 6104KB
+Hits: 2
+Misses: 1526
+Task T1 allocated with 8KB
+Total occupied memory: 6112KB
+Hits: 2
+Misses: 1528
+Task T1 allocated with 28KB
+Total occupied memory: 6140KB
+Hits: 2
+Misses: 1535
+Task T1 allocated with 4KB
+Total occupied memory: 6144KB
+Hits: 2
+Misses: 1536
+Task T1 allocated with 36KB
+Total occupied memory: 6180KB
+Hits: 2
+Misses: 1545
+Task T1 allocated with 4KB
+Total occupied memory: 6184KB
+Hits: 2
+Misses: 1546
+Task T1 allocated with 40KB
+Total occupied memory: 6224KB
+Hits: 2
+Misses: 1556
+Task T1 allocated with 32KB
+Total occupied memory: 6256KB
+Hits: 2
+Misses: 1564
+Task T1 allocated with 28KB
+Total occupied memory: 6284KB
+Hits: 2
+Misses: 1571
+Task T1 allocated with 16KB
+Total occupied memory: 6300KB
+Hits: 2
+Misses: 1575
+Task T1 allocated with 20KB
+Total occupied memory: 6320KB
+Hits: 2
+Misses: 1580
+Task T1 allocated with 40KB
+Total occupied memory: 6360KB
+Hits: 2
+Misses: 1590
+Task T1 allocated with 20KB
+Total occupied memory: 6380KB
+Hits: 2
+Misses: 1595
+Task T1 allocated with 8KB
+Total occupied memory: 6388KB
+Hits: 2
+Misses: 1597
+Task T1 allocated with 8KB
+Total occupied memory: 6396KB
+Hits: 2
+Misses: 1599
+Task T1 allocated with 28KB
+Total occupied memory: 6424KB
+Hits: 2
+Misses: 1606
+Task T1 allocated with 36KB
+Total occupied memory: 6460KB
+Hits: 2
+Misses: 1615
+Task T1 allocated with 4KB
+Total occupied memory: 6464KB
+Hits: 2
+Misses: 1616
+Task T1 allocated with 8KB
+Total occupied memory: 6472KB
+Hits: 2
+Misses: 1618
+Task T1 allocated with 12KB
+Total occupied memory: 6484KB
+Hits: 2
+Misses: 1621
+Task T1 allocated with 24KB
+Total occupied memory: 6508KB
+Hits: 2
+Misses: 1627
+Task T1 allocated with 16KB
+Total occupied memory: 6524KB
+Hits: 2
+Misses: 1631
+Task T1 allocated with 40KB
+Total occupied memory: 6564KB
+Hits: 2
+Misses: 1641
+Task T1 allocated with 28KB
+Total occupied memory: 6592KB
+Hits: 2
+Misses: 1648
+Task T1 allocated with 28KB
+Total occupied memory: 6620KB
+Hits: 2
+Misses: 1655
+Task T1 allocated with 16KB
+Total occupied memory: 6636KB
+Hits: 2
+Misses: 1659
+Task T1 allocated with 28KB
+Total occupied memory: 6664KB
+Hits: 2
+Misses: 1666
+Task T1 allocated with 28KB
+Total occupied memory: 6692KB
+Hits: 2
+Misses: 1673
+Task T1 allocated with 16KB
+Total occupied memory: 6708KB
+Hits: 2
+Misses: 1677
+Task T1 allocated with 36KB
+Total occupied memory: 6744KB
+Hits: 2
+Misses: 1686
+Task T1 allocated with 32KB
+Total occupied memory: 6776KB
+Hits: 2
+Misses: 1694
+Task T1 allocated with 32KB
+Total occupied memory: 6808KB
+Hits: 2
+Misses: 1702
+Task T1 allocated with 40KB
+Total occupied memory: 6848KB
+Hits: 2
+Misses: 1712
+Task T1 allocated with 40KB
+Total occupied memory: 6888KB
+Hits: 2
+Misses: 1722
+Task T1 allocated with 16KB
+Total occupied memory: 6904KB
+Hits: 2
+Misses: 1726
+Task T1 allocated with 4KB
+Total occupied memory: 6908KB
+Hits: 2
+Misses: 1727
+Task T1 allocated with 36KB
+Total occupied memory: 6944KB
+Hits: 2
+Misses: 1736
+Task T1 allocated with 4KB
+Total occupied memory: 6948KB
+Hits: 2
+Misses: 1737
+Task T1 allocated with 32KB
+Total occupied memory: 6980KB
+Hits: 2
+Misses: 1745
+Task T1 allocated with 4KB
+Total occupied memory: 6984KB
+Hits: 2
+Misses: 1746
+Task T1 allocated with 12KB
+Total occupied memory: 6996KB
+Hits: 2
+Misses: 1749
+Task T1 allocated with 32KB
+Total occupied memory: 7028KB
+Hits: 2
+Misses: 1757
+Task T1 allocated with 20KB
+Total occupied memory: 7048KB
+Hits: 2
+Misses: 1762
+Task T1 allocated with 20KB
+Total occupied memory: 7068KB
+Hits: 2
+Misses: 1767
+Task T1 allocated with 16KB
+Total occupied memory: 7084KB
+Hits: 2
+Misses: 1771
+Task T1 allocated with 8KB
+Total occupied memory: 7092KB
+Hits: 2
+Misses: 1773
+Task T1 allocated with 16KB
+Total occupied memory: 7108KB
+Hits: 2
+Misses: 1777
+Task T1 allocated with 8KB
+Total occupied memory: 7116KB
+Hits: 2
+Misses: 1779
+Task T1 allocated with 4KB
+Total occupied memory: 7120KB
+Hits: 2
+Misses: 1780
+Task T1 allocated with 16KB
+Total occupied memory: 7136KB
+Hits: 2
+Misses: 1784
+Task T1 allocated with 40KB
+Total occupied memory: 7176KB
+Hits: 2
+Misses: 1794
+Task T1 allocated with 12KB
+Total occupied memory: 7188KB
+Hits: 2
+Misses: 1797
+Task T1 allocated with 36KB
+Total occupied memory: 7224KB
+Hits: 2
+Misses: 1806
+Task T1 allocated with 32KB
+Total occupied memory: 7256KB
+Hits: 2
+Misses: 1814
+Task T1 allocated with 32KB
+Total occupied memory: 7288KB
+Hits: 2
+Misses: 1822
+Task T1 allocated with 20KB
+Total occupied memory: 7308KB
+Hits: 2
+Misses: 1827
+Task T1 allocated with 16KB
+Total occupied memory: 7324KB
+Hits: 2
+Misses: 1831
+Task T1 allocated with 8KB
+Total occupied memory: 7332KB
+Hits: 2
+Misses: 1833
+Task T1 allocated with 8KB
+Total occupied memory: 7340KB
+Hits: 2
+Misses: 1835
+Task T1 allocated with 4KB
+Total occupied memory: 7344KB
+Hits: 2
+Misses: 1836
+Task T1 allocated with 24KB
+Total occupied memory: 7368KB
+Hits: 2
+Misses: 1842
+Task T1 allocated with 8KB
+Total occupied memory: 7376KB
+Hits: 2
+Misses: 1844
+Task T1 allocated with 28KB
+Total occupied memory: 7404KB
+Hits: 2
+Misses: 1851
+Task T1 allocated with 28KB
+Total occupied memory: 7432KB
+Hits: 2
+Misses: 1858
+Task T1 allocated with 20KB
+Total occupied memory: 7452KB
+Hits: 2
+Misses: 1863
+Task T1 allocated with 28KB
+Total occupied memory: 7480KB
+Hits: 2
+Misses: 1870
+Task T1 allocated with 28KB
+Total occupied memory: 7508KB
+Hits: 2
+Misses: 1877
+Task T1 allocated with 32KB
+Total occupied memory: 7540KB
+Hits: 2
+Misses: 1885
+Task T1 allocated with 24KB
+Total occupied memory: 7564KB
+Hits: 2
+Misses: 1891
+Task T1 allocated with 4KB
+Total occupied memory: 7568KB
+Hits: 2
+Misses: 1892
+Task T1 allocated with 36KB
+Total occupied memory: 7604KB
+Hits: 2
+Misses: 1901
+Task T1 allocated with 8KB
+Total occupied memory: 7612KB
+Hits: 2
+Misses: 1903
+Task T1 allocated with 36KB
+Total occupied memory: 7648KB
+Hits: 2
+Misses: 1912
+Task T1 allocated with 8KB
+Total occupied memory: 7656KB
+Hits: 2
+Misses: 1914
+Task T1 allocated with 36KB
+Total occupied memory: 7692KB
+Hits: 2
+Misses: 1923
+Task T1 allocated with 40KB
+Total occupied memory: 7732KB
+Hits: 2
+Misses: 1933
+Task T1 allocated with 40KB
+Total occupied memory: 7772KB
+Hits: 2
+Misses: 1943
+Task T1 allocated with 16KB
+Total occupied memory: 7788KB
+Hits: 2
+Misses: 1947
+Task T1 allocated with 4KB
+Total occupied memory: 7792KB
+Hits: 2
+Misses: 1948
+Task T1 allocated with 40KB
+Total occupied memory: 7832KB
+Hits: 2
+Misses: 1958
+Task T1 allocated with 24KB
+Total occupied memory: 7856KB
+Hits: 2
+Misses: 1964
+Task T1 allocated with 28KB
+Total occupied memory: 7884KB
+Hits: 2
+Misses: 1971
+Task T1 allocated with 8KB
+Total occupied memory: 7892KB
+Hits: 2
+Misses: 1973
+Task T1 allocated with 20KB
+Total occupied memory: 7912KB
+Hits: 2
+Misses: 1978
+Task T1 allocated with 24KB
+Total occupied memory: 7936KB
+Hits: 2
+Misses: 1984
+Task T1 allocated with 12KB
+Total occupied memory: 7948KB
+Hits: 2
+Misses: 1987
+Task T1 allocated with 32KB
+Total occupied memory: 7980KB
+Hits: 2
+Misses: 1995
+Task T1 allocated with 36KB
+Total occupied memory: 8016KB
+Hits: 2
+Misses: 2004
+Task T1 allocated with 24KB
+Total occupied memory: 8040KB
+Hits: 2
+Misses: 2010
+Task T1 allocated with 20KB
+Total occupied memory: 8060KB
+Hits: 2
+Misses: 2015
+Task T1 allocated with 40KB
+Total occupied memory: 8100KB
+Hits: 2
+Misses: 2025
+Task T1 allocated with 20KB
+Total occupied memory: 8120KB
+Hits: 2
+Misses: 2030
+Task T1 allocated with 4KB
+Total occupied memory: 8124KB
+Hits: 2
+Misses: 2031
+Task T1 allocated with 28KB
+Total occupied memory: 8152KB
+Hits: 2
+Misses: 2038
+Task T1 allocated with 40KB
+Total occupied memory: 8192KB
+Hits: 2
+Misses: 2048
+Task T1 allocated with 24KB
+Total occupied memory: 8216KB
+Hits: 2
+Misses: 2054
+Task T1 allocated with 32KB
+Total occupied memory: 8248KB
+Hits: 2
+Misses: 2062
+Task T1 allocated with 8KB
+Total occupied memory: 8256KB
+Hits: 2
+Misses: 2064
+Task T1 allocated with 24KB
+Total occupied memory: 8280KB
+Hits: 2
+Misses: 2070
+Task T1 allocated with 32KB
+Total occupied memory: 8312KB
+Hits: 2
+Misses: 2078
+Task T1 allocated with 20KB
+Total occupied memory: 8332KB
+Hits: 2
+Misses: 2083
+Task T1 allocated with 20KB
+Total occupied memory: 8352KB
+Hits: 2
+Misses: 2088
+Task T1 allocated with 24KB
+Total occupied memory: 8376KB
+Hits: 2
+Misses: 2094
+Task T1 allocated with 32KB
+Total occupied memory: 8408KB
+Hits: 2
+Misses: 2102
+Task T1 allocated with 36KB
+Total occupied memory: 8444KB
+Hits: 2
+Misses: 2111
+Task T1 allocated with 28KB
+Total occupied memory: 8472KB
+Hits: 2
+Misses: 2118
+Task T1 allocated with 16KB
+Total occupied memory: 8488KB
+Hits: 2
+Misses: 2122
+Task T1 allocated with 4KB
+Total occupied memory: 8492KB
+Hits: 2
+Misses: 2123
+Task T1 allocated with 28KB
+Total occupied memory: 8520KB
+Hits: 2
+Misses: 2130
+Task T1 allocated with 36KB
+Total occupied memory: 8556KB
+Hits: 2
+Misses: 2139
+Task T1 allocated with 4KB
+Total occupied memory: 8560KB
+Hits: 2
+Misses: 2140
+Task T1 allocated with 16KB
+Total occupied memory: 8576KB
+Hits: 2
+Misses: 2144
+Task T1 allocated with 24KB
+Total occupied memory: 8600KB
+Hits: 2
+Misses: 2150
+Task T1 allocated with 16KB
+Total occupied memory: 8616KB
+Hits: 2
+Misses: 2154
+Task T1 allocated with 40KB
+Total occupied memory: 8656KB
+Hits: 2
+Misses: 2164
+Task T1 allocated with 4KB
+Total occupied memory: 8660KB
+Hits: 2
+Misses: 2165
+Task T1 allocated with 8KB
+Total occupied memory: 8668KB
+Hits: 2
+Misses: 2167
+Task T1 allocated with 20KB
+Total occupied memory: 8688KB
+Hits: 2
+Misses: 2172
+Task T1 allocated with 12KB
+Total occupied memory: 8700KB
+Hits: 2
+Misses: 2175
+Task T1 allocated with 28KB
+Total occupied memory: 8728KB
+Hits: 2
+Misses: 2182
+Task T1 allocated with 8KB
+Total occupied memory: 8736KB
+Hits: 2
+Misses: 2184
+Task T1 allocated with 16KB
+Total occupied memory: 8752KB
+Hits: 2
+Misses: 2188
+Task T1 allocated with 24KB
+Total occupied memory: 8776KB
+Hits: 2
+Misses: 2194
+Task T1 allocated with 32KB
+Total occupied memory: 8808KB
+Hits: 2
+Misses: 2202
+Task T1 allocated with 20KB
+Total occupied memory: 8828KB
+Hits: 2
+Misses: 2207
+Task T1 allocated with 32KB
+Total occupied memory: 8860KB
+Hits: 2
+Misses: 2215
+Task T1 allocated with 28KB
+Total occupied memory: 8888KB
+Hits: 2
+Misses: 2222
+Task T1 allocated with 16KB
+Total occupied memory: 8904KB
+Hits: 2
+Misses: 2226
+Task T1 allocated with 36KB
+Total occupied memory: 8940KB
+Hits: 2
+Misses: 2235
+Task T1 allocated with 16KB
+Total occupied memory: 8956KB
+Hits: 2
+Misses: 2239
+Task T1 allocated with 12KB
+Total occupied memory: 8968KB
+Hits: 2
+Misses: 2242
+Task T1 allocated with 12KB
+Total occupied memory: 8980KB
+Hits: 2
+Misses: 2245
+Task T1 allocated with 8KB
+Total occupied memory: 8988KB
+Hits: 2
+Misses: 2247
+Task T1 allocated with 40KB
+Total occupied memory: 9028KB
+Hits: 2
+Misses: 2257
+Task T1 allocated with 28KB
+Total occupied memory: 9056KB
+Hits: 2
+Misses: 2264
+Task T1 allocated with 8KB
+Total occupied memory: 9064KB
+Hits: 2
+Misses: 2266
+Task T1 allocated with 16KB
+Total occupied memory: 9080KB
+Hits: 2
+Misses: 2270
+Task T1 allocated with 16KB
+Total occupied memory: 9096KB
+Hits: 2
+Misses: 2274
+Task T1 allocated with 40KB
+Total occupied memory: 9136KB
+Hits: 2
+Misses: 2284
+Task T1 allocated with 20KB
+Total occupied memory: 9156KB
+Hits: 2
+Misses: 2289
+Task T1 allocated with 16KB
+Total occupied memory: 9172KB
+Hits: 2
+Misses: 2293
+Task T1 allocated with 40KB
+Total occupied memory: 9212KB
+Hits: 2
+Misses: 2303
+Task T1 allocated with 8KB
+Total occupied memory: 9220KB
+Hits: 2
+Misses: 2305
+Task T1 allocated with 32KB
+Total occupied memory: 9252KB
+Hits: 2
+Misses: 2313
+Task T1 allocated with 20KB
+Total occupied memory: 9272KB
+Hits: 2
+Misses: 2318
+Task T1 allocated with 20KB
+Total occupied memory: 9292KB
+Hits: 2
+Misses: 2323
+Task T1 allocated with 24KB
+Total occupied memory: 9316KB
+Hits: 2
+Misses: 2329
+Task T1 allocated with 36KB
+Total occupied memory: 9352KB
+Hits: 2
+Misses: 2338
+Task T1 allocated with 4KB
+Total occupied memory: 9356KB
+Hits: 2
+Misses: 2339
+Task T1 allocated with 20KB
+Total occupied memory: 9376KB
+Hits: 2
+Misses: 2344
+Task T1 allocated with 20KB
+Total occupied memory: 9396KB
+Hits: 2
+Misses: 2349
+Task T1 allocated with 16KB
+Total occupied memory: 9412KB
+Hits: 2
+Misses: 2353
+Task T1 allocated with 32KB
+Total occupied memory: 9444KB
+Hits: 2
+Misses: 2361
+Task T1 allocated with 32KB
+Total occupied memory: 9476KB
+Hits: 2
+Misses: 2369
+Task T1 allocated with 8KB
+Total occupied memory: 9484KB
+Hits: 2
+Misses: 2371
+Task T1 allocated with 4KB
+Total occupied memory: 9488KB
+Hits: 2
+Misses: 2372
+Task T1 allocated with 24KB
+Total occupied memory: 9512KB
+Hits: 2
+Misses: 2378
+Task T1 allocated with 40KB
+Total occupied memory: 9552KB
+Hits: 2
+Misses: 2388
+Task T1 allocated with 24KB
+Total occupied memory: 9576KB
+Hits: 2
+Misses: 2394
+Task T1 allocated with 12KB
+Total occupied memory: 9588KB
+Hits: 2
+Misses: 2397
+Task T1 allocated with 40KB
+Total occupied memory: 9628KB
+Hits: 2
+Misses: 2407
+Task T1 allocated with 16KB
+Total occupied memory: 9644KB
+Hits: 2
+Misses: 2411
+Task T1 allocated with 28KB
+Total occupied memory: 9672KB
+Hits: 2
+Misses: 2418
+Task T1 allocated with 4KB
+Total occupied memory: 9676KB
+Hits: 2
+Misses: 2419
+Task T1 allocated with 20KB
+Total occupied memory: 9696KB
+Hits: 2
+Misses: 2424
+Task T1 allocated with 28KB
+Total occupied memory: 9724KB
+Hits: 2
+Misses: 2431
+Task T1 allocated with 28KB
+Total occupied memory: 9752KB
+Hits: 2
+Misses: 2438
+Task T1 allocated with 8KB
+Total occupied memory: 9760KB
+Hits: 2
+Misses: 2440
+Task T1 allocated with 36KB
+Total occupied memory: 9796KB
+Hits: 2
+Misses: 2449
+Task T1 allocated with 4KB
+Total occupied memory: 9800KB
+Hits: 2
+Misses: 2450
+Task T1 allocated with 20KB
+Total occupied memory: 9820KB
+Hits: 2
+Misses: 2455
+Task T1 allocated with 36KB
+Total occupied memory: 9856KB
+Hits: 2
+Misses: 2464
+Task T1 allocated with 36KB
+Total occupied memory: 9892KB
+Hits: 2
+Misses: 2473
+Task T1 allocated with 16KB
+Total occupied memory: 9908KB
+Hits: 2
+Misses: 2477
+Task T1 allocated with 28KB
+Total occupied memory: 9936KB
+Hits: 2
+Misses: 2484
+Task T1 allocated with 40KB
+Total occupied memory: 9976KB
+Hits: 2
+Misses: 2494
+Task T1 allocated with 40KB
+Total occupied memory: 10016KB
+Hits: 2
+Misses: 2504
+Task T1 allocated with 24KB
+Total occupied memory: 10040KB
+Hits: 2
+Misses: 2510
+Task T1 allocated with 24KB
+Total occupied memory: 10064KB
+Hits: 2
+Misses: 2516
+Task T1 allocated with 40KB
+Total occupied memory: 10104KB
+Hits: 2
+Misses: 2526
+Task T1 allocated with 40KB
+Total occupied memory: 10144KB
+Hits: 2
+Misses: 2536
+Task T1 allocated with 32KB
+Total occupied memory: 10176KB
+Hits: 2
+Misses: 2544
+Task T1 allocated with 28KB
+Total occupied memory: 10204KB
+Hits: 2
+Misses: 2551
+Task T1 allocated with 8KB
+Total occupied memory: 10212KB
+Hits: 2
+Misses: 2553
+Task T1 allocated with 32KB
+Total occupied memory: 10244KB
+Hits: 2
+Misses: 2561
+Task T1 allocated with 28KB
+Total occupied memory: 10272KB
+Hits: 2
+Misses: 2568
+Task T1 allocated with 4KB
+Total occupied memory: 10276KB
+Hits: 2
+Misses: 2569
+Task T1 allocated with 32KB
+Total occupied memory: 10308KB
+Hits: 2
+Misses: 2577
+Task T1 allocated with 36KB
+Total occupied memory: 10344KB
+Hits: 2
+Misses: 2586
+Task T1 allocated with 16KB
+Total occupied memory: 10360KB
+Hits: 2
+Misses: 2590
+Task T1 allocated with 16KB
+Total occupied memory: 10376KB
+Hits: 2
+Misses: 2594
+Task T1 allocated with 4KB
+Total occupied memory: 10380KB
+Hits: 2
+Misses: 2595
+Task T1 allocated with 40KB
+Total occupied memory: 10420KB
+Hits: 2
+Misses: 2605
+Task T1 allocated with 8KB
+Total occupied memory: 10428KB
+Hits: 2
+Misses: 2607
+Task T1 allocated with 8KB
+Total occupied memory: 10436KB
+Hits: 2
+Misses: 2609
+Task T1 allocated with 36KB
+Total occupied memory: 10472KB
+Hits: 2
+Misses: 2618
+Task T1 allocated with 16KB
+Total occupied memory: 10488KB
+Hits: 2
+Misses: 2622
+Task T1 allocated with 12KB
+Total occupied memory: 10500KB
+Hits: 2
+Misses: 2625
+Task T1 allocated with 20KB
+Total occupied memory: 10520KB
+Hits: 2
+Misses: 2630
+Task T1 allocated with 4KB
+Total occupied memory: 10524KB
+Hits: 2
+Misses: 2631
+Task T1 allocated with 20KB
+Total occupied memory: 10544KB
+Hits: 2
+Misses: 2636
+Task T1 allocated with 40KB
+Total occupied memory: 10584KB
+Hits: 2
+Misses: 2646
+Task T1 allocated with 8KB
+Total occupied memory: 10592KB
+Hits: 2
+Misses: 2648
+Task T1 allocated with 8KB
+Total occupied memory: 10600KB
+Hits: 2
+Misses: 2650
+Task T1 allocated with 28KB
+Total occupied memory: 10628KB
+Hits: 2
+Misses: 2657
+Task T1 allocated with 4KB
+Total occupied memory: 10632KB
+Hits: 2
+Misses: 2658
+Task T1 allocated with 24KB
+Total occupied memory: 10656KB
+Hits: 2
+Misses: 2664
+Task T1 allocated with 28KB
+Total occupied memory: 10684KB
+Hits: 2
+Misses: 2671
+Task T1 allocated with 28KB
+Total occupied memory: 10712KB
+Hits: 2
+Misses: 2678
+Task T1 allocated with 36KB
+Total occupied memory: 10748KB
+Hits: 2
+Misses: 2687
+Task T1 allocated with 40KB
+Total occupied memory: 10788KB
+Hits: 2
+Misses: 2697
+Task T1 allocated with 20KB
+Total occupied memory: 10808KB
+Hits: 2
+Misses: 2702
+Task T1 allocated with 36KB
+Total occupied memory: 10844KB
+Hits: 2
+Misses: 2711
+Task T1 allocated with 24KB
+Total occupied memory: 10868KB
+Hits: 2
+Misses: 2717
+Task T1 allocated with 8KB
+Total occupied memory: 10876KB
+Hits: 2
+Misses: 2719
+Task T1 allocated with 36KB
+Total occupied memory: 10912KB
+Hits: 2
+Misses: 2728
+Task T1 allocated with 32KB
+Total occupied memory: 10944KB
+Hits: 2
+Misses: 2736
+Task T1 allocated with 36KB
+Total occupied memory: 10980KB
+Hits: 2
+Misses: 2745
+Task T1 allocated with 36KB
+Total occupied memory: 11016KB
+Hits: 2
+Misses: 2754
+Task T1 allocated with 40KB
+Total occupied memory: 11056KB
+Hits: 2
+Misses: 2764
+Task T1 allocated with 28KB
+Total occupied memory: 11084KB
+Hits: 2
+Misses: 2771
+Task T1 allocated with 16KB
+Total occupied memory: 11100KB
+Hits: 2
+Misses: 2775
+Task T1 allocated with 20KB
+Total occupied memory: 11120KB
+Hits: 2
+Misses: 2780
+Task T1 allocated with 36KB
+Total occupied memory: 11156KB
+Hits: 2
+Misses: 2789
+Task T1 allocated with 12KB
+Total occupied memory: 11168KB
+Hits: 2
+Misses: 2792
+Task T1 allocated with 8KB
+Total occupied memory: 11176KB
+Hits: 2
+Misses: 2794
+Task T1 allocated with 40KB
+Total occupied memory: 11216KB
+Hits: 2
+Misses: 2804
+Task T1 allocated with 16KB
+Total occupied memory: 11232KB
+Hits: 2
+Misses: 2808
+Task T1 allocated with 24KB
+Total occupied memory: 11256KB
+Hits: 2
+Misses: 2814
+Task T1 allocated with 40KB
+Total occupied memory: 11296KB
+Hits: 2
+Misses: 2824
+Task T1 allocated with 28KB
+Total occupied memory: 11324KB
+Hits: 2
+Misses: 2831
+Task T1 allocated with 20KB
+Total occupied memory: 11344KB
+Hits: 2
+Misses: 2836
+Task T1 allocated with 32KB
+Total occupied memory: 11376KB
+Hits: 2
+Misses: 2844
+Task T1 allocated with 16KB
+Total occupied memory: 11392KB
+Hits: 2
+Misses: 2848
+Task T1 allocated with 8KB
+Total occupied memory: 11400KB
+Hits: 2
+Misses: 2850
+Task T1 allocated with 20KB
+Total occupied memory: 11420KB
+Hits: 2
+Misses: 2855
+Task T1 allocated with 40KB
+Total occupied memory: 11460KB
+Hits: 2
+Misses: 2865
+Task T1 allocated with 40KB
+Total occupied memory: 11500KB
+Hits: 2
+Misses: 2875
+Task T1 allocated with 16KB
+Total occupied memory: 11516KB
+Hits: 2
+Misses: 2879
+Task T1 allocated with 16KB
+Total occupied memory: 11532KB
+Hits: 2
+Misses: 2883
+Task T1 allocated with 12KB
+Total occupied memory: 11544KB
+Hits: 2
+Misses: 2886
+Task T1 allocated with 24KB
+Total occupied memory: 11568KB
+Hits: 2
+Misses: 2892
+Task T1 allocated with 32KB
+Total occupied memory: 11600KB
+Hits: 2
+Misses: 2900
+Task T1 allocated with 32KB
+Total occupied memory: 11632KB
+Hits: 2
+Misses: 2908
+Task T1 allocated with 12KB
+Total occupied memory: 11644KB
+Hits: 2
+Misses: 2911
+Task T1 allocated with 12KB
+Total occupied memory: 11656KB
+Hits: 2
+Misses: 2914
+Task T1 allocated with 12KB
+Total occupied memory: 11668KB
+Hits: 2
+Misses: 2917
+Task T1 allocated with 20KB
+Total occupied memory: 11688KB
+Hits: 2
+Misses: 2922
+Task T1 allocated with 28KB
+Total occupied memory: 11716KB
+Hits: 2
+Misses: 2929
+Task T1 allocated with 32KB
+Total occupied memory: 11748KB
+Hits: 2
+Misses: 2937
+Task T1 allocated with 40KB
+Total occupied memory: 11788KB
+Hits: 2
+Misses: 2947
+Task T1 allocated with 24KB
+Total occupied memory: 11812KB
+Hits: 2
+Misses: 2953
+Task T1 allocated with 32KB
+Total occupied memory: 11844KB
+Hits: 2
+Misses: 2961
+Task T1 allocated with 24KB
+Total occupied memory: 11868KB
+Hits: 2
+Misses: 2967
+Task T1 allocated with 24KB
+Total occupied memory: 11892KB
+Hits: 2
+Misses: 2973
+Task T1 allocated with 40KB
+Total occupied memory: 11932KB
+Hits: 2
+Misses: 2983
+Task T1 allocated with 32KB
+Total occupied memory: 11964KB
+Hits: 2
+Misses: 2991
+Task T1 allocated with 4KB
+Total occupied memory: 11968KB
+Hits: 2
+Misses: 2992
+Task T1 allocated with 16KB
+Total occupied memory: 11984KB
+Hits: 2
+Misses: 2996
+Task T1 allocated with 32KB
+Total occupied memory: 12016KB
+Hits: 2
+Misses: 3004
+Task T1 allocated with 36KB
+Total occupied memory: 12052KB
+Hits: 2
+Misses: 3013
+Task T1 allocated with 40KB
+Total occupied memory: 12092KB
+Hits: 2
+Misses: 3023
+Task T1 allocated with 8KB
+Total occupied memory: 12100KB
+Hits: 2
+Misses: 3025
+Task T1 allocated with 28KB
+Total occupied memory: 12128KB
+Hits: 2
+Misses: 3032
+Task T1 allocated with 16KB
+Total occupied memory: 12144KB
+Hits: 2
+Misses: 3036
+Task T1 allocated with 12KB
+Total occupied memory: 12156KB
+Hits: 2
+Misses: 3039
+Task T1 allocated with 20KB
+Total occupied memory: 12176KB
+Hits: 2
+Misses: 3044
+Task T1 allocated with 4KB
+Total occupied memory: 12180KB
+Hits: 2
+Misses: 3045
+Task T1 allocated with 36KB
+Total occupied memory: 12216KB
+Hits: 2
+Misses: 3054
+Task T1 allocated with 16KB
+Total occupied memory: 12232KB
+Hits: 2
+Misses: 3058
+Task T1 allocated with 20KB
+Total occupied memory: 12252KB
+Hits: 2
+Misses: 3063
+Task T1 allocated with 24KB
+Total occupied memory: 12276KB
+Hits: 2
+Misses: 3069
+Task T1 allocated with 8KB
+Total occupied memory: 12284KB
+Hits: 2
+Misses: 3071
+Task T1 allocated with 12KB
+Total occupied memory: 12296KB
+Hits: 2
+Misses: 3074
+Task T1 allocated with 12KB
+Total occupied memory: 12308KB
+Hits: 2
+Misses: 3077
+Task T1 allocated with 40KB
+Total occupied memory: 12348KB
+Hits: 2
+Misses: 3087
+Task T1 allocated with 40KB
+Total occupied memory: 12388KB
+Hits: 2
+Misses: 3097
+Task T1 allocated with 16KB
+Total occupied memory: 12404KB
+Hits: 2
+Misses: 3101
+Task T1 allocated with 8KB
+Total occupied memory: 12412KB
+Hits: 2
+Misses: 3103
+Task T1 allocated with 40KB
+Total occupied memory: 12452KB
+Hits: 2
+Misses: 3113
+Task T1 allocated with 36KB
+Total occupied memory: 12488KB
+Hits: 2
+Misses: 3122
+Task T1 allocated with 36KB
+Total occupied memory: 12524KB
+Hits: 2
+Misses: 3131
+Task T1 allocated with 20KB
+Total occupied memory: 12544KB
+Hits: 2
+Misses: 3136
+Task T1 allocated with 16KB
+Total occupied memory: 12560KB
+Hits: 2
+Misses: 3140
+Task T1 allocated with 28KB
+Total occupied memory: 12588KB
+Hits: 2
+Misses: 3147
+Task T1 allocated with 4KB
+Total occupied memory: 12592KB
+Hits: 2
+Misses: 3148
+Task T1 allocated with 8KB
+Total occupied memory: 12600KB
+Hits: 2
+Misses: 3150
+Task T1 allocated with 24KB
+Total occupied memory: 12624KB
+Hits: 2
+Misses: 3156
+Task T1 allocated with 36KB
+Total occupied memory: 12660KB
+Hits: 2
+Misses: 3165
+Task T1 allocated with 36KB
+Total occupied memory: 12696KB
+Hits: 2
+Misses: 3174
+Task T1 allocated with 8KB
+Total occupied memory: 12704KB
+Hits: 2
+Misses: 3176
+Task T1 allocated with 40KB
+Total occupied memory: 12744KB
+Hits: 2
+Misses: 3186
+Task T1 allocated with 4KB
+Total occupied memory: 12748KB
+Hits: 2
+Misses: 3187
+Task T1 allocated with 40KB
+Total occupied memory: 12788KB
+Hits: 2
+Misses: 3197
+Task T1 allocated with 20KB
+Total occupied memory: 12808KB
+Hits: 2
+Misses: 3202
+Task T1 allocated with 8KB
+Total occupied memory: 12816KB
+Hits: 2
+Misses: 3204
+Task T1 allocated with 8KB
+Total occupied memory: 12824KB
+Hits: 2
+Misses: 3206
+Task T1 allocated with 4KB
+Total occupied memory: 12828KB
+Hits: 2
+Misses: 3207
+Task T1 allocated with 16KB
+Total occupied memory: 12844KB
+Hits: 2
+Misses: 3211
+Task T1 allocated with 36KB
+Total occupied memory: 12880KB
+Hits: 2
+Misses: 3220
+Task T1 allocated with 24KB
+Total occupied memory: 12904KB
+Hits: 2
+Misses: 3226
+Task T1 allocated with 20KB
+Total occupied memory: 12924KB
+Hits: 2
+Misses: 3231
+Task T1 allocated with 36KB
+Total occupied memory: 12960KB
+Hits: 2
+Misses: 3240
+Task T1 allocated with 12KB
+Total occupied memory: 12972KB
+Hits: 2
+Misses: 3243
+Task T1 allocated with 4KB
+Total occupied memory: 12976KB
+Hits: 2
+Misses: 3244
+Task T1 allocated with 4KB
+Total occupied memory: 12980KB
+Hits: 2
+Misses: 3245
+Task T1 allocated with 40KB
+Total occupied memory: 13020KB
+Hits: 2
+Misses: 3255
+Task T1 allocated with 32KB
+Total occupied memory: 13052KB
+Hits: 2
+Misses: 3263
+Task T1 allocated with 28KB
+Total occupied memory: 13080KB
+Hits: 2
+Misses: 3270
+Task T1 allocated with 20KB
+Total occupied memory: 13100KB
+Hits: 2
+Misses: 3275
+Task T1 allocated with 20KB
+Total occupied memory: 13120KB
+Hits: 2
+Misses: 3280
+Task T1 allocated with 28KB
+Total occupied memory: 13148KB
+Hits: 2
+Misses: 3287
+Task T1 allocated with 40KB
+Total occupied memory: 13188KB
+Hits: 2
+Misses: 3297
+Task T1 allocated with 24KB
+Total occupied memory: 13212KB
+Hits: 2
+Misses: 3303
+Task T1 allocated with 32KB
+Total occupied memory: 13244KB
+Hits: 2
+Misses: 3311
+Task T1 allocated with 20KB
+Total occupied memory: 13264KB
+Hits: 2
+Misses: 3316
+Task T1 allocated with 28KB
+Total occupied memory: 13292KB
+Hits: 2
+Misses: 3323
+Task T1 allocated with 16KB
+Total occupied memory: 13308KB
+Hits: 2
+Misses: 3327
+Task T1 allocated with 8KB
+Total occupied memory: 13316KB
+Hits: 2
+Misses: 3329
+Task T1 allocated with 12KB
+Total occupied memory: 13328KB
+Hits: 2
+Misses: 3332
+Task T1 allocated with 40KB
+Total occupied memory: 13368KB
+Hits: 2
+Misses: 3342
+Task T1 allocated with 20KB
+Total occupied memory: 13388KB
+Hits: 2
+Misses: 3347
+Task T1 allocated with 20KB
+Total occupied memory: 13408KB
+Hits: 2
+Misses: 3352
+Task T1 allocated with 40KB
+Total occupied memory: 13448KB
+Hits: 2
+Misses: 3362
+Task T1 allocated with 12KB
+Total occupied memory: 13460KB
+Hits: 2
+Misses: 3365
+Task T1 allocated with 4KB
+Total occupied memory: 13464KB
+Hits: 2
+Misses: 3366
+Task T1 allocated with 36KB
+Total occupied memory: 13500KB
+Hits: 2
+Misses: 3375
+Task T1 allocated with 20KB
+Total occupied memory: 13500KB
+Hits: 7
+Misses: 3375
+Task T1 allocated with 24KB
+Total occupied memory: 13500KB
+Hits: 13
+Misses: 3375
+Task T1 allocated with 24KB
+Total occupied memory: 13524KB
+Hits: 13
+Misses: 3381
+Task T1 allocated with 32KB
+Total occupied memory: 13556KB
+Hits: 13
+Misses: 3389
+Task T1 allocated with 40KB
+Total occupied memory: 13596KB
+Hits: 13
+Misses: 3399
+Task T1 allocated with 24KB
+Total occupied memory: 13620KB
+Hits: 13
+Misses: 3405
+Task T1 allocated with 8KB
+Total occupied memory: 13628KB
+Hits: 13
+Misses: 3407
+Task T1 allocated with 36KB
+Total occupied memory: 13664KB
+Hits: 13
+Misses: 3416
+Task T1 allocated with 16KB
+Total occupied memory: 13680KB
+Hits: 13
+Misses: 3420
+Task T1 allocated with 8KB
+Total occupied memory: 13688KB
+Hits: 13
+Misses: 3422
+Task T1 allocated with 32KB
+Total occupied memory: 13720KB
+Hits: 13
+Misses: 3430
+Task T1 allocated with 8KB
+Total occupied memory: 13728KB
+Hits: 13
+Misses: 3432
+Task T1 allocated with 36KB
+Total occupied memory: 13764KB
+Hits: 13
+Misses: 3441
+Task T1 allocated with 8KB
+Total occupied memory: 13772KB
+Hits: 13
+Misses: 3443
+Task T1 allocated with 8KB
+Total occupied memory: 13780KB
+Hits: 13
+Misses: 3445
+Task T1 allocated with 20KB
+Total occupied memory: 13800KB
+Hits: 13
+Misses: 3450
+Task T1 allocated with 12KB
+Total occupied memory: 13812KB
+Hits: 13
+Misses: 3453
+Task T1 allocated with 32KB
+Total occupied memory: 13844KB
+Hits: 13
+Misses: 3461
+Task T1 allocated with 4KB
+Total occupied memory: 13848KB
+Hits: 13
+Misses: 3462
+Task T1 allocated with 4KB
+Total occupied memory: 13852KB
+Hits: 13
+Misses: 3463
+Task T1 allocated with 16KB
+Total occupied memory: 13868KB
+Hits: 13
+Misses: 3467
+Task T1 allocated with 20KB
+Total occupied memory: 13888KB
+Hits: 13
+Misses: 3472
+Task T1 allocated with 40KB
+Total occupied memory: 13928KB
+Hits: 13
+Misses: 3482
+Task T1 allocated with 12KB
+Total occupied memory: 13940KB
+Hits: 13
+Misses: 3485
+Task T1 allocated with 8KB
+Total occupied memory: 13948KB
+Hits: 13
+Misses: 3487
+Task T1 allocated with 12KB
+Total occupied memory: 13960KB
+Hits: 13
+Misses: 3490
+Task T1 allocated with 36KB
+Total occupied memory: 13996KB
+Hits: 13
+Misses: 3499
+Task T1 allocated with 24KB
+Total occupied memory: 14020KB
+Hits: 13
+Misses: 3505
+Task T1 allocated with 8KB
+Total occupied memory: 14028KB
+Hits: 13
+Misses: 3507
+Task T1 allocated with 36KB
+Total occupied memory: 14064KB
+Hits: 13
+Misses: 3516
+Task T1 allocated with 16KB
+Total occupied memory: 14080KB
+Hits: 13
+Misses: 3520
+Task T1 allocated with 28KB
+Total occupied memory: 14108KB
+Hits: 13
+Misses: 3527
+Task T1 allocated with 24KB
+Total occupied memory: 14132KB
+Hits: 13
+Misses: 3533
+Task T1 allocated with 32KB
+Total occupied memory: 14164KB
+Hits: 13
+Misses: 3541
+Task T1 allocated with 36KB
+Total occupied memory: 14200KB
+Hits: 13
+Misses: 3550
+Task T1 allocated with 20KB
+Total occupied memory: 14220KB
+Hits: 13
+Misses: 3555
+Task T1 allocated with 32KB
+Total occupied memory: 14252KB
+Hits: 13
+Misses: 3563
+Task T1 allocated with 32KB
+Total occupied memory: 14284KB
+Hits: 13
+Misses: 3571
+Task T1 allocated with 20KB
+Total occupied memory: 14304KB
+Hits: 13
+Misses: 3576
+Task T1 allocated with 12KB
+Total occupied memory: 14316KB
+Hits: 13
+Misses: 3579
+Task T1 allocated with 8KB
+Total occupied memory: 14324KB
+Hits: 13
+Misses: 3581
+Task T1 allocated with 8KB
+Total occupied memory: 14332KB
+Hits: 13
+Misses: 3583
+Task T1 allocated with 36KB
+Total occupied memory: 14368KB
+Hits: 13
+Misses: 3592
+Task T1 allocated with 20KB
+Total occupied memory: 14388KB
+Hits: 13
+Misses: 3597
+Task T1 allocated with 28KB
+Total occupied memory: 14416KB
+Hits: 13
+Misses: 3604
+Task T1 allocated with 8KB
+Total occupied memory: 14424KB
+Hits: 13
+Misses: 3606
+Task T1 allocated with 8KB
+Total occupied memory: 14432KB
+Hits: 13
+Misses: 3608
+Task T1 allocated with 28KB
+Total occupied memory: 14460KB
+Hits: 13
+Misses: 3615
+Task T1 allocated with 32KB
+Total occupied memory: 14492KB
+Hits: 13
+Misses: 3623
+Task T1 allocated with 28KB
+Total occupied memory: 14520KB
+Hits: 13
+Misses: 3630
+Task T1 allocated with 24KB
+Total occupied memory: 14544KB
+Hits: 13
+Misses: 3636
+Task T1 allocated with 40KB
+Total occupied memory: 14584KB
+Hits: 13
+Misses: 3646
+Task T1 allocated with 4KB
+Total occupied memory: 14588KB
+Hits: 13
+Misses: 3647
+Task T1 allocated with 8KB
+Total occupied memory: 14596KB
+Hits: 13
+Misses: 3649
+Task T1 allocated with 32KB
+Total occupied memory: 14628KB
+Hits: 13
+Misses: 3657
+Task T1 allocated with 12KB
+Total occupied memory: 14640KB
+Hits: 13
+Misses: 3660
+Task T1 allocated with 12KB
+Total occupied memory: 14652KB
+Hits: 13
+Misses: 3663
+Task T1 allocated with 32KB
+Total occupied memory: 14684KB
+Hits: 13
+Misses: 3671
+Task T1 allocated with 12KB
+Total occupied memory: 14696KB
+Hits: 13
+Misses: 3674
+Task T1 allocated with 36KB
+Total occupied memory: 14732KB
+Hits: 13
+Misses: 3683
+Task T1 allocated with 36KB
+Total occupied memory: 14768KB
+Hits: 13
+Misses: 3692
+Task T1 allocated with 4KB
+Total occupied memory: 14772KB
+Hits: 13
+Misses: 3693
+Task T1 allocated with 40KB
+Total occupied memory: 14812KB
+Hits: 13
+Misses: 3703
+Task T1 allocated with 36KB
+Total occupied memory: 14848KB
+Hits: 13
+Misses: 3712
+Task T1 allocated with 4KB
+Total occupied memory: 14852KB
+Hits: 13
+Misses: 3713
+Task T1 allocated with 28KB
+Total occupied memory: 14880KB
+Hits: 13
+Misses: 3720
+Task T1 allocated with 4KB
+Total occupied memory: 14884KB
+Hits: 13
+Misses: 3721
+Task T1 allocated with 24KB
+Total occupied memory: 14908KB
+Hits: 13
+Misses: 3727
+Task T1 allocated with 36KB
+Total occupied memory: 14944KB
+Hits: 13
+Misses: 3736
+Task T1 allocated with 40KB
+Total occupied memory: 14984KB
+Hits: 13
+Misses: 3746
+Task T1 allocated with 24KB
+Total occupied memory: 15008KB
+Hits: 13
+Misses: 3752
+Task T1 allocated with 28KB
+Total occupied memory: 15036KB
+Hits: 13
+Misses: 3759
+Task T1 allocated with 32KB
+Total occupied memory: 15068KB
+Hits: 13
+Misses: 3767
+Task T1 allocated with 32KB
+Total occupied memory: 15100KB
+Hits: 13
+Misses: 3775
+Task T1 allocated with 32KB
+Total occupied memory: 15132KB
+Hits: 13
+Misses: 3783
+Task T1 allocated with 4KB
+Total occupied memory: 15136KB
+Hits: 13
+Misses: 3784
+Task T1 allocated with 8KB
+Total occupied memory: 15144KB
+Hits: 13
+Misses: 3786
+Task T1 allocated with 12KB
+Total occupied memory: 15156KB
+Hits: 13
+Misses: 3789
+Task T1 allocated with 36KB
+Total occupied memory: 15192KB
+Hits: 13
+Misses: 3798
+Task T1 allocated with 24KB
+Total occupied memory: 15216KB
+Hits: 13
+Misses: 3804
+Task T1 allocated with 12KB
+Total occupied memory: 15228KB
+Hits: 13
+Misses: 3807
+Task T1 allocated with 24KB
+Total occupied memory: 15252KB
+Hits: 13
+Misses: 3813
+Task T1 allocated with 12KB
+Total occupied memory: 15264KB
+Hits: 13
+Misses: 3816
+Task T1 allocated with 32KB
+Total occupied memory: 15296KB
+Hits: 13
+Misses: 3824
+Task T1 allocated with 20KB
+Total occupied memory: 15316KB
+Hits: 13
+Misses: 3829
+Task T1 allocated with 36KB
+Total occupied memory: 15352KB
+Hits: 13
+Misses: 3838
+Task T1 allocated with 8KB
+Total occupied memory: 15360KB
+Hits: 13
+Misses: 3840
+Task T1 allocated with 24KB
+Total occupied memory: 15384KB
+Hits: 13
+Misses: 3846
+Task T1 allocated with 16KB
+Total occupied memory: 15400KB
+Hits: 13
+Misses: 3850
+Task T1 allocated with 4KB
+Total occupied memory: 15404KB
+Hits: 13
+Misses: 3851
+Task T1 allocated with 36KB
+Total occupied memory: 15440KB
+Hits: 13
+Misses: 3860
+Task T1 allocated with 24KB
+Total occupied memory: 15464KB
+Hits: 13
+Misses: 3866
+Task T1 allocated with 12KB
+Total occupied memory: 15476KB
+Hits: 13
+Misses: 3869
+Task T1 allocated with 24KB
+Total occupied memory: 15500KB
+Hits: 13
+Misses: 3875
+Task T1 allocated with 8KB
+Total occupied memory: 15508KB
+Hits: 13
+Misses: 3877
+Task T1 allocated with 4KB
+Total occupied memory: 15512KB
+Hits: 13
+Misses: 3878
+Task T1 allocated with 12KB
+Total occupied memory: 15524KB
+Hits: 13
+Misses: 3881
+Task T1 allocated with 4KB
+Total occupied memory: 15528KB
+Hits: 13
+Misses: 3882
+Task T1 allocated with 20KB
+Total occupied memory: 15548KB
+Hits: 13
+Misses: 3887
+Task T1 allocated with 16KB
+Total occupied memory: 15564KB
+Hits: 13
+Misses: 3891
+Task T1 allocated with 40KB
+Total occupied memory: 15604KB
+Hits: 13
+Misses: 3901
+Task T1 allocated with 12KB
+Total occupied memory: 15616KB
+Hits: 13
+Misses: 3904
+Task T1 allocated with 8KB
+Total occupied memory: 15624KB
+Hits: 13
+Misses: 3906
+Task T1 allocated with 28KB
+Total occupied memory: 15652KB
+Hits: 13
+Misses: 3913
+Task T1 allocated with 20KB
+Total occupied memory: 15672KB
+Hits: 13
+Misses: 3918
+Task T1 allocated with 24KB
+Total occupied memory: 15696KB
+Hits: 13
+Misses: 3924
+Task T1 allocated with 16KB
+Total occupied memory: 15712KB
+Hits: 13
+Misses: 3928
+Task T1 allocated with 16KB
+Total occupied memory: 15728KB
+Hits: 13
+Misses: 3932
+Task T1 allocated with 12KB
+Total occupied memory: 15740KB
+Hits: 13
+Misses: 3935
+Task T1 allocated with 28KB
+Total occupied memory: 15768KB
+Hits: 13
+Misses: 3942
+Task T1 allocated with 8KB
+Total occupied memory: 15776KB
+Hits: 13
+Misses: 3944
+Task T1 allocated with 28KB
+Total occupied memory: 15804KB
+Hits: 13
+Misses: 3951
+Task T1 allocated with 12KB
+Total occupied memory: 15816KB
+Hits: 13
+Misses: 3954
+Task T1 allocated with 8KB
+Total occupied memory: 15824KB
+Hits: 13
+Misses: 3956
+Task T1 allocated with 12KB
+Total occupied memory: 15836KB
+Hits: 13
+Misses: 3959
+Task T1 allocated with 32KB
+Total occupied memory: 15868KB
+Hits: 13
+Misses: 3967
+Task T1 allocated with 32KB
+Total occupied memory: 15900KB
+Hits: 13
+Misses: 3975
+Task T1 allocated with 12KB
+Total occupied memory: 15912KB
+Hits: 13
+Misses: 3978
+Task T1 allocated with 24KB
+Total occupied memory: 15936KB
+Hits: 13
+Misses: 3984
+Task T1 allocated with 4KB
+Total occupied memory: 15940KB
+Hits: 13
+Misses: 3985
+Task T1 allocated with 12KB
+Total occupied memory: 15952KB
+Hits: 13
+Misses: 3988
+Task T1 allocated with 24KB
+Total occupied memory: 15976KB
+Hits: 13
+Misses: 3994
+Task T1 allocated with 12KB
+Total occupied memory: 15988KB
+Hits: 13
+Misses: 3997
+Task T1 allocated with 16KB
+Total occupied memory: 16004KB
+Hits: 13
+Misses: 4001
+Task T1 allocated with 20KB
+Total occupied memory: 16024KB
+Hits: 13
+Misses: 4006
+Task T1 allocated with 36KB
+Total occupied memory: 16060KB
+Hits: 13
+Misses: 4015
+Task T1 allocated with 40KB
+Total occupied memory: 16100KB
+Hits: 13
+Misses: 4025
+Task T1 allocated with 20KB
+Total occupied memory: 16120KB
+Hits: 13
+Misses: 4030
+Task T1 allocated with 40KB
+Total occupied memory: 16160KB
+Hits: 13
+Misses: 4040
+Task T1 allocated with 4KB
+Total occupied memory: 16164KB
+Hits: 13
+Misses: 4041
+Task T1 allocated with 36KB
+Total occupied memory: 16200KB
+Hits: 13
+Misses: 4050
+Task T1 allocated with 4KB
+Total occupied memory: 16204KB
+Hits: 13
+Misses: 4051
+Task T1 allocated with 12KB
+Total occupied memory: 16216KB
+Hits: 13
+Misses: 4054
+Task T1 allocated with 32KB
+Total occupied memory: 16248KB
+Hits: 13
+Misses: 4062
+Task T1 allocated with 20KB
+Total occupied memory: 16268KB
+Hits: 13
+Misses: 4067
+Task T1 allocated with 32KB
+Total occupied memory: 16300KB
+Hits: 13
+Misses: 4075
+Task T1 allocated with 40KB
+Total occupied memory: 16328KB
+Hits: 16
+Misses: 4082
+Task T1 allocated with 32KB
+Total occupied memory: 16360KB
+Hits: 16
+Misses: 4090
+Task T1 allocated with 16KB
+Total occupied memory: 16376KB
+Hits: 16
+Misses: 4094
+Task T1 allocated with 32KB
+Total occupied memory: 16408KB
+Hits: 16
+Misses: 4102
+Task T1 allocated with 24KB
+Total occupied memory: 16432KB
+Hits: 16
+Misses: 4108
+Task T1 allocated with 12KB
+Total occupied memory: 16444KB
+Hits: 16
+Misses: 4111
+Task T1 allocated with 32KB
+Total occupied memory: 16476KB
+Hits: 16
+Misses: 4119
+Task T1 allocated with 28KB
+Total occupied memory: 16504KB
+Hits: 16
+Misses: 4126
+Task T1 allocated with 16KB
+Total occupied memory: 16520KB
+Hits: 16
+Misses: 4130
+Task T1 allocated with 8KB
+Total occupied memory: 16528KB
+Hits: 16
+Misses: 4132
+Task T1 allocated with 12KB
+Total occupied memory: 16540KB
+Hits: 16
+Misses: 4135
+Task T1 allocated with 12KB
+Total occupied memory: 16552KB
+Hits: 16
+Misses: 4138
+Task T1 allocated with 36KB
+Total occupied memory: 16588KB
+Hits: 16
+Misses: 4147
+Task T1 allocated with 8KB
+Total occupied memory: 16596KB
+Hits: 16
+Misses: 4149
+Task T1 allocated with 28KB
+Total occupied memory: 16624KB
+Hits: 16
+Misses: 4156
+Task T1 allocated with 32KB
+Total occupied memory: 16656KB
+Hits: 16
+Misses: 4164
+Task T1 allocated with 4KB
+Total occupied memory: 16660KB
+Hits: 16
+Misses: 4165
+Task T1 allocated with 40KB
+Total occupied memory: 16700KB
+Hits: 16
+Misses: 4175
+Task T1 allocated with 12KB
+Total occupied memory: 16712KB
+Hits: 16
+Misses: 4178
+Task T1 allocated with 28KB
+Total occupied memory: 16740KB
+Hits: 16
+Misses: 4185
+Task T1 allocated with 4KB
+Total occupied memory: 16744KB
+Hits: 16
+Misses: 4186
+Task T1 allocated with 20KB
+Total occupied memory: 16764KB
+Hits: 16
+Misses: 4191
+Task T1 allocated with 12KB
+Total occupied memory: 16776KB
+Hits: 16
+Misses: 4194
+Task T1 allocated with 28KB
+Total occupied memory: 16804KB
+Hits: 16
+Misses: 4201
+Task T1 allocated with 40KB
+Total occupied memory: 16844KB
+Hits: 16
+Misses: 4211
+Task T1 allocated with 16KB
+Total occupied memory: 16860KB
+Hits: 16
+Misses: 4215
+Task T1 allocated with 36KB
+Total occupied memory: 16896KB
+Hits: 16
+Misses: 4224
+Task T1 allocated with 36KB
+Total occupied memory: 16932KB
+Hits: 16
+Misses: 4233
+Task T1 allocated with 36KB
+Total occupied memory: 16968KB
+Hits: 16
+Misses: 4242
+Task T1 allocated with 24KB
+Total occupied memory: 16992KB
+Hits: 16
+Misses: 4248
+Task T1 allocated with 12KB
+Total occupied memory: 17004KB
+Hits: 16
+Misses: 4251
+Task T1 allocated with 8KB
+Total occupied memory: 17012KB
+Hits: 16
+Misses: 4253
+Task T1 allocated with 8KB
+Total occupied memory: 17020KB
+Hits: 16
+Misses: 4255
+Task T1 allocated with 28KB
+Total occupied memory: 17048KB
+Hits: 16
+Misses: 4262
+Task T1 allocated with 24KB
+Total occupied memory: 17072KB
+Hits: 16
+Misses: 4268
+Task T1 allocated with 8KB
+Total occupied memory: 17080KB
+Hits: 16
+Misses: 4270
+Task T1 allocated with 8KB
+Total occupied memory: 17088KB
+Hits: 16
+Misses: 4272
+Task T1 allocated with 20KB
+Total occupied memory: 17108KB
+Hits: 16
+Misses: 4277
+Task T1 allocated with 20KB
+Total occupied memory: 17128KB
+Hits: 16
+Misses: 4282
+Task T1 allocated with 20KB
+Total occupied memory: 17148KB
+Hits: 16
+Misses: 4287
+Task T1 allocated with 40KB
+Total occupied memory: 17188KB
+Hits: 16
+Misses: 4297
+Task T1 allocated with 12KB
+Total occupied memory: 17200KB
+Hits: 16
+Misses: 4300
+Task T1 allocated with 40KB
+Total occupied memory: 17240KB
+Hits: 16
+Misses: 4310
+Task T1 allocated with 40KB
+Total occupied memory: 17280KB
+Hits: 16
+Misses: 4320
+Task T1 allocated with 28KB
+Total occupied memory: 17308KB
+Hits: 16
+Misses: 4327
+Task T1 allocated with 36KB
+Total occupied memory: 17344KB
+Hits: 16
+Misses: 4336
+Task T1 allocated with 4KB
+Total occupied memory: 17348KB
+Hits: 16
+Misses: 4337
+Task T1 allocated with 12KB
+Total occupied memory: 17360KB
+Hits: 16
+Misses: 4340
+Task T1 allocated with 28KB
+Total occupied memory: 17388KB
+Hits: 16
+Misses: 4347
+Task T1 allocated with 8KB
+Total occupied memory: 17396KB
+Hits: 16
+Misses: 4349
+Task T1 allocated with 32KB
+Total occupied memory: 17428KB
+Hits: 16
+Misses: 4357
+Task T1 allocated with 4KB
+Total occupied memory: 17432KB
+Hits: 16
+Misses: 4358
+Task T1 allocated with 40KB
+Total occupied memory: 17472KB
+Hits: 16
+Misses: 4368
+Task T1 allocated with 12KB
+Total occupied memory: 17484KB
+Hits: 16
+Misses: 4371
+Task T1 allocated with 8KB
+Total occupied memory: 17492KB
+Hits: 16
+Misses: 4373
+Task T1 allocated with 8KB
+Total occupied memory: 17500KB
+Hits: 16
+Misses: 4375
+Task T1 allocated with 20KB
+Total occupied memory: 17520KB
+Hits: 16
+Misses: 4380
+Task T1 allocated with 32KB
+Total occupied memory: 17552KB
+Hits: 16
+Misses: 4388
+Task T1 allocated with 32KB
+Total occupied memory: 17584KB
+Hits: 16
+Misses: 4396
+Task T1 allocated with 36KB
+Total occupied memory: 17620KB
+Hits: 16
+Misses: 4405
+Task T1 allocated with 4KB
+Total occupied memory: 17624KB
+Hits: 16
+Misses: 4406
+Task T1 allocated with 24KB
+Total occupied memory: 17648KB
+Hits: 16
+Misses: 4412
+Task T1 allocated with 24KB
+Total occupied memory: 17672KB
+Hits: 16
+Misses: 4418
+Task T1 allocated with 20KB
+Total occupied memory: 17692KB
+Hits: 16
+Misses: 4423
+Task T1 allocated with 32KB
+Total occupied memory: 17724KB
+Hits: 16
+Misses: 4431
+Task T1 allocated with 36KB
+Total occupied memory: 17760KB
+Hits: 16
+Misses: 4440
+Task T1 allocated with 4KB
+Total occupied memory: 17764KB
+Hits: 16
+Misses: 4441
+Task T1 allocated with 12KB
+Total occupied memory: 17776KB
+Hits: 16
+Misses: 4444
+Task T1 allocated with 4KB
+Total occupied memory: 17780KB
+Hits: 16
+Misses: 4445
+Task T1 allocated with 36KB
+Total occupied memory: 17816KB
+Hits: 16
+Misses: 4454
+Task T1 allocated with 36KB
+Total occupied memory: 17852KB
+Hits: 16
+Misses: 4463
+Task T1 allocated with 28KB
+Total occupied memory: 17880KB
+Hits: 16
+Misses: 4470
+Task T1 allocated with 40KB
+Total occupied memory: 17920KB
+Hits: 16
+Misses: 4480
+Task T1 allocated with 8KB
+Total occupied memory: 17928KB
+Hits: 16
+Misses: 4482
+Task T1 allocated with 16KB
+Total occupied memory: 17944KB
+Hits: 16
+Misses: 4486
+Task T1 allocated with 8KB
+Total occupied memory: 17952KB
+Hits: 16
+Misses: 4488
+Task T1 allocated with 16KB
+Total occupied memory: 17968KB
+Hits: 16
+Misses: 4492
+Task T1 allocated with 24KB
+Total occupied memory: 17992KB
+Hits: 16
+Misses: 4498
+Task T1 allocated with 8KB
+Total occupied memory: 18000KB
+Hits: 16
+Misses: 4500
+Task T1 allocated with 4KB
+Total occupied memory: 18004KB
+Hits: 16
+Misses: 4501
+Task T1 allocated with 32KB
+Total occupied memory: 18036KB
+Hits: 16
+Misses: 4509
+Task T1 allocated with 4KB
+Total occupied memory: 18040KB
+Hits: 16
+Misses: 4510
+Task T1 allocated with 40KB
+Total occupied memory: 18080KB
+Hits: 16
+Misses: 4520
+Task T1 allocated with 16KB
+Total occupied memory: 18096KB
+Hits: 16
+Misses: 4524
+Task T1 allocated with 8KB
+Total occupied memory: 18104KB
+Hits: 16
+Misses: 4526
+Task T1 allocated with 28KB
+Total occupied memory: 18132KB
+Hits: 16
+Misses: 4533
+Task T1 allocated with 16KB
+Total occupied memory: 18148KB
+Hits: 16
+Misses: 4537
+Task T1 allocated with 28KB
+Total occupied memory: 18176KB
+Hits: 16
+Misses: 4544
+Task T1 allocated with 20KB
+Total occupied memory: 18196KB
+Hits: 16
+Misses: 4549
+Task T1 allocated with 32KB
+Total occupied memory: 18228KB
+Hits: 16
+Misses: 4557
+Task T1 allocated with 40KB
+Total occupied memory: 18268KB
+Hits: 16
+Misses: 4567
+Task T1 allocated with 16KB
+Total occupied memory: 18284KB
+Hits: 16
+Misses: 4571
+Task T1 allocated with 40KB
+Total occupied memory: 18324KB
+Hits: 16
+Misses: 4581
+Task T1 allocated with 12KB
+Total occupied memory: 18336KB
+Hits: 16
+Misses: 4584
+Task T1 allocated with 4KB
+Total occupied memory: 18340KB
+Hits: 16
+Misses: 4585
+Task T1 allocated with 32KB
+Total occupied memory: 18372KB
+Hits: 16
+Misses: 4593
+Task T1 allocated with 16KB
+Total occupied memory: 18388KB
+Hits: 16
+Misses: 4597
+Task T1 allocated with 16KB
+Total occupied memory: 18404KB
+Hits: 16
+Misses: 4601
+Task T1 allocated with 20KB
+Total occupied memory: 18424KB
+Hits: 16
+Misses: 4606
+Task T1 allocated with 20KB
+Total occupied memory: 18444KB
+Hits: 16
+Misses: 4611
+Task T1 allocated with 28KB
+Total occupied memory: 18472KB
+Hits: 16
+Misses: 4618
+Task T1 allocated with 28KB
+Total occupied memory: 18500KB
+Hits: 16
+Misses: 4625
+Task T1 allocated with 20KB
+Total occupied memory: 18520KB
+Hits: 16
+Misses: 4630
+Task T1 allocated with 28KB
+Total occupied memory: 18548KB
+Hits: 16
+Misses: 4637
+Task T1 allocated with 24KB
+Total occupied memory: 18572KB
+Hits: 16
+Misses: 4643
+Task T1 allocated with 40KB
+Total occupied memory: 18612KB
+Hits: 16
+Misses: 4653
+Task T1 allocated with 24KB
+Total occupied memory: 18636KB
+Hits: 16
+Misses: 4659
+Task T1 allocated with 36KB
+Total occupied memory: 18672KB
+Hits: 16
+Misses: 4668
+Task T1 allocated with 4KB
+Total occupied memory: 18676KB
+Hits: 16
+Misses: 4669
+Task T1 allocated with 8KB
+Total occupied memory: 18684KB
+Hits: 16
+Misses: 4671
+Task T1 allocated with 12KB
+Total occupied memory: 18696KB
+Hits: 16
+Misses: 4674
+Task T1 allocated with 36KB
+Total occupied memory: 18732KB
+Hits: 16
+Misses: 4683
+Task T1 allocated with 8KB
+Total occupied memory: 18740KB
+Hits: 16
+Misses: 4685
+Task T1 allocated with 20KB
+Total occupied memory: 18760KB
+Hits: 16
+Misses: 4690
+Task T1 allocated with 4KB
+Total occupied memory: 18764KB
+Hits: 16
+Misses: 4691
+Task T1 allocated with 4KB
+Total occupied memory: 18768KB
+Hits: 16
+Misses: 4692
+Task T1 allocated with 12KB
+Total occupied memory: 18780KB
+Hits: 16
+Misses: 4695
+Task T1 allocated with 24KB
+Total occupied memory: 18804KB
+Hits: 16
+Misses: 4701
+Task T1 allocated with 28KB
+Total occupied memory: 18832KB
+Hits: 16
+Misses: 4708
+Task T1 allocated with 20KB
+Total occupied memory: 18852KB
+Hits: 16
+Misses: 4713
+Task T1 allocated with 12KB
+Total occupied memory: 18864KB
+Hits: 16
+Misses: 4716
+Task T1 allocated with 36KB
+Total occupied memory: 18900KB
+Hits: 16
+Misses: 4725
+Task T1 allocated with 24KB
+Total occupied memory: 18924KB
+Hits: 16
+Misses: 4731
+Task T1 allocated with 28KB
+Total occupied memory: 18952KB
+Hits: 16
+Misses: 4738
+Task T1 allocated with 4KB
+Total occupied memory: 18956KB
+Hits: 16
+Misses: 4739
+Task T1 allocated with 24KB
+Total occupied memory: 18980KB
+Hits: 16
+Misses: 4745
+Task T1 allocated with 28KB
+Total occupied memory: 19008KB
+Hits: 16
+Misses: 4752
+Task T1 allocated with 40KB
+Total occupied memory: 19048KB
+Hits: 16
+Misses: 4762
+Task T1 allocated with 24KB
+Total occupied memory: 19072KB
+Hits: 16
+Misses: 4768
+Task T1 allocated with 4KB
+Total occupied memory: 19076KB
+Hits: 16
+Misses: 4769
+Task T1 allocated with 40KB
+Total occupied memory: 19116KB
+Hits: 16
+Misses: 4779
+Task T1 allocated with 8KB
+Total occupied memory: 19124KB
+Hits: 16
+Misses: 4781
+Task T1 allocated with 12KB
+Total occupied memory: 19136KB
+Hits: 16
+Misses: 4784
+Task T1 allocated with 40KB
+Total occupied memory: 19176KB
+Hits: 16
+Misses: 4794
+Task T1 allocated with 12KB
+Total occupied memory: 19188KB
+Hits: 16
+Misses: 4797
+Task T1 allocated with 32KB
+Total occupied memory: 19220KB
+Hits: 16
+Misses: 4805
+Task T1 allocated with 24KB
+Total occupied memory: 19244KB
+Hits: 16
+Misses: 4811
+Task T1 allocated with 24KB
+Total occupied memory: 19268KB
+Hits: 16
+Misses: 4817
+Task T1 allocated with 24KB
+Total occupied memory: 19292KB
+Hits: 16
+Misses: 4823
+Task T1 allocated with 4KB
+Total occupied memory: 19296KB
+Hits: 16
+Misses: 4824
+Task T1 allocated with 16KB
+Total occupied memory: 19312KB
+Hits: 16
+Misses: 4828
+Task T1 allocated with 12KB
+Total occupied memory: 19324KB
+Hits: 16
+Misses: 4831
+Task T1 allocated with 36KB
+Total occupied memory: 19360KB
+Hits: 16
+Misses: 4840
+Task T1 allocated with 16KB
+Total occupied memory: 19376KB
+Hits: 16
+Misses: 4844
+Task T1 allocated with 8KB
+Total occupied memory: 19384KB
+Hits: 16
+Misses: 4846
+Task T1 allocated with 24KB
+Total occupied memory: 19408KB
+Hits: 16
+Misses: 4852
+Task T1 allocated with 20KB
+Total occupied memory: 19428KB
+Hits: 16
+Misses: 4857
+Task T1 allocated with 28KB
+Total occupied memory: 19456KB
+Hits: 16
+Misses: 4864
+Task T1 allocated with 28KB
+Total occupied memory: 19484KB
+Hits: 16
+Misses: 4871
+Task T1 allocated with 32KB
+Total occupied memory: 19516KB
+Hits: 16
+Misses: 4879
+Task T1 allocated with 12KB
+Total occupied memory: 19528KB
+Hits: 16
+Misses: 4882
+Task T1 allocated with 32KB
+Total occupied memory: 19560KB
+Hits: 16
+Misses: 4890
+Task T1 allocated with 20KB
+Total occupied memory: 19580KB
+Hits: 16
+Misses: 4895
+Task T1 allocated with 8KB
+Total occupied memory: 19588KB
+Hits: 16
+Misses: 4897
+Task T1 allocated with 12KB
+Total occupied memory: 19600KB
+Hits: 16
+Misses: 4900
+Task T1 allocated with 36KB
+Total occupied memory: 19636KB
+Hits: 16
+Misses: 4909
+Task T1 allocated with 16KB
+Total occupied memory: 19652KB
+Hits: 16
+Misses: 4913
+Task T1 allocated with 16KB
+Total occupied memory: 19668KB
+Hits: 16
+Misses: 4917
+Task T1 allocated with 12KB
+Total occupied memory: 19680KB
+Hits: 16
+Misses: 4920
+Task T1 allocated with 28KB
+Total occupied memory: 19708KB
+Hits: 16
+Misses: 4927
+Task T1 allocated with 36KB
+Total occupied memory: 19744KB
+Hits: 16
+Misses: 4936
+Task T1 allocated with 36KB
+Total occupied memory: 19780KB
+Hits: 16
+Misses: 4945
+Task T1 allocated with 28KB
+Total occupied memory: 19808KB
+Hits: 16
+Misses: 4952
+Task T1 allocated with 36KB
+Total occupied memory: 19844KB
+Hits: 16
+Misses: 4961
+Task T1 allocated with 28KB
+Total occupied memory: 19872KB
+Hits: 16
+Misses: 4968
+Task T1 allocated with 40KB
+Total occupied memory: 19912KB
+Hits: 16
+Misses: 4978
+Task T1 allocated with 8KB
+Total occupied memory: 19920KB
+Hits: 16
+Misses: 4980
+Task T1 allocated with 8KB
+Total occupied memory: 19928KB
+Hits: 16
+Misses: 4982
+Task T1 allocated with 16KB
+Total occupied memory: 19944KB
+Hits: 16
+Misses: 4986
+Task T1 allocated with 28KB
+Total occupied memory: 19972KB
+Hits: 16
+Misses: 4993
+Task T1 allocated with 24KB
+Total occupied memory: 19996KB
+Hits: 16
+Misses: 4999
+Task T1 allocated with 36KB
+Total occupied memory: 20032KB
+Hits: 16
+Misses: 5008
+Task T1 allocated with 20KB
+Total occupied memory: 20052KB
+Hits: 16
+Misses: 5013
+Task T1 allocated with 40KB
+Total occupied memory: 20092KB
+Hits: 16
+Misses: 5023
+Task T1 allocated with 20KB
+Total occupied memory: 20112KB
+Hits: 16
+Misses: 5028
+Task T1 allocated with 32KB
+Total occupied memory: 20144KB
+Hits: 16
+Misses: 5036
+Task T1 allocated with 32KB
+Total occupied memory: 20176KB
+Hits: 16
+Misses: 5044
+Task T1 allocated with 20KB
+Total occupied memory: 20196KB
+Hits: 16
+Misses: 5049
+Task T1 allocated with 36KB
+Total occupied memory: 20232KB
+Hits: 16
+Misses: 5058
+Task T1 allocated with 36KB
+Total occupied memory: 20268KB
+Hits: 16
+Misses: 5067
+Task T1 allocated with 40KB
+Total occupied memory: 20308KB
+Hits: 16
+Misses: 5077
+Task T1 allocated with 36KB
+Total occupied memory: 20344KB
+Hits: 16
+Misses: 5086
+Task T1 allocated with 36KB
+Total occupied memory: 20380KB
+Hits: 16
+Misses: 5095
+Task T1 allocated with 4KB
+Total occupied memory: 20384KB
+Hits: 16
+Misses: 5096
+Task T1 allocated with 36KB
+Total occupied memory: 20420KB
+Hits: 16
+Misses: 5105
+Task T1 allocated with 12KB
+Total occupied memory: 20432KB
+Hits: 16
+Misses: 5108
+Task T1 allocated with 28KB
+Total occupied memory: 20460KB
+Hits: 16
+Misses: 5115
+Task T1 allocated with 16KB
+Total occupied memory: 20476KB
+Hits: 16
+Misses: 5119
+Task T1 allocated with 16KB
+Total occupied memory: 20492KB
+Hits: 16
+Misses: 5123
+Task T1 allocated with 36KB
+Total occupied memory: 20528KB
+Hits: 16
+Misses: 5132
+Task T1 allocated with 40KB
+Total occupied memory: 20568KB
+Hits: 16
+Misses: 5142
+Task T1 allocated with 4KB
+Total occupied memory: 20572KB
+Hits: 16
+Misses: 5143
+Task T1 allocated with 24KB
+Total occupied memory: 20596KB
+Hits: 16
+Misses: 5149
+Task T1 allocated with 40KB
+Total occupied memory: 20636KB
+Hits: 16
+Misses: 5159
+Task T1 allocated with 40KB
+Total occupied memory: 20676KB
+Hits: 16
+Misses: 5169
+Task T1 allocated with 36KB
+Total occupied memory: 20712KB
+Hits: 16
+Misses: 5178
+Task T1 allocated with 32KB
+Total occupied memory: 20744KB
+Hits: 16
+Misses: 5186
+Task T1 allocated with 8KB
+Total occupied memory: 20752KB
+Hits: 16
+Misses: 5188
+Task T1 allocated with 12KB
+Total occupied memory: 20764KB
+Hits: 16
+Misses: 5191
+Task T1 allocated with 36KB
+Total occupied memory: 20800KB
+Hits: 16
+Misses: 5200
+Task T1 allocated with 36KB
+Total occupied memory: 20836KB
+Hits: 16
+Misses: 5209
+Task T1 allocated with 24KB
+Total occupied memory: 20860KB
+Hits: 16
+Misses: 5215
+Task T1 allocated with 20KB
+Total occupied memory: 20880KB
+Hits: 16
+Misses: 5220
+Task T1 allocated with 24KB
+Total occupied memory: 20904KB
+Hits: 16
+Misses: 5226
+Task T1 allocated with 36KB
+Total occupied memory: 20940KB
+Hits: 16
+Misses: 5235
+Task T1 allocated with 28KB
+Total occupied memory: 20968KB
+Hits: 16
+Misses: 5242
+Task T1 allocated with 36KB
+Total occupied memory: 21004KB
+Hits: 16
+Misses: 5251
+Task T1 allocated with 12KB
+Total occupied memory: 21016KB
+Hits: 16
+Misses: 5254
+Task T1 allocated with 32KB
+Total occupied memory: 21048KB
+Hits: 16
+Misses: 5262
+Task T1 allocated with 28KB
+Total occupied memory: 21076KB
+Hits: 16
+Misses: 5269
+Task T1 allocated with 32KB
+Total occupied memory: 21108KB
+Hits: 16
+Misses: 5277
+Task T1 allocated with 16KB
+Total occupied memory: 21124KB
+Hits: 16
+Misses: 5281
+Task T1 allocated with 20KB
+Total occupied memory: 21144KB
+Hits: 16
+Misses: 5286
+Task T1 allocated with 32KB
+Total occupied memory: 21176KB
+Hits: 16
+Misses: 5294
+Task T1 allocated with 36KB
+Total occupied memory: 21212KB
+Hits: 16
+Misses: 5303
+Task T1 allocated with 24KB
+Total occupied memory: 21236KB
+Hits: 16
+Misses: 5309
+Task T1 allocated with 32KB
+Total occupied memory: 21268KB
+Hits: 16
+Misses: 5317
+Task T1 allocated with 36KB
+Total occupied memory: 21304KB
+Hits: 16
+Misses: 5326
+Task T1 allocated with 16KB
+Total occupied memory: 21320KB
+Hits: 16
+Misses: 5330
+Task T1 allocated with 20KB
+Total occupied memory: 21340KB
+Hits: 16
+Misses: 5335
+Task T1 allocated with 32KB
+Total occupied memory: 21372KB
+Hits: 16
+Misses: 5343
+Task T1 allocated with 8KB
+Total occupied memory: 21380KB
+Hits: 16
+Misses: 5345
+Task T1 allocated with 40KB
+Total occupied memory: 21420KB
+Hits: 16
+Misses: 5355
+Task T1 allocated with 28KB
+Total occupied memory: 21448KB
+Hits: 16
+Misses: 5362
+Task T1 allocated with 4KB
+Total occupied memory: 21452KB
+Hits: 16
+Misses: 5363
+Task T1 allocated with 12KB
+Total occupied memory: 21464KB
+Hits: 16
+Misses: 5366
+Task T1 allocated with 16KB
+Total occupied memory: 21480KB
+Hits: 16
+Misses: 5370
+Task T1 allocated with 32KB
+Total occupied memory: 21512KB
+Hits: 16
+Misses: 5378
+Task T1 allocated with 32KB
+Total occupied memory: 21544KB
+Hits: 16
+Misses: 5386
+Task T1 allocated with 28KB
+Total occupied memory: 21572KB
+Hits: 16
+Misses: 5393
+Task T1 allocated with 4KB
+Total occupied memory: 21576KB
+Hits: 16
+Misses: 5394
+Task T1 allocated with 20KB
+Total occupied memory: 21596KB
+Hits: 16
+Misses: 5399
+Task T1 allocated with 20KB
+Total occupied memory: 21616KB
+Hits: 16
+Misses: 5404
+Task T1 allocated with 4KB
+Total occupied memory: 21620KB
+Hits: 16
+Misses: 5405
+Task T1 allocated with 16KB
+Total occupied memory: 21636KB
+Hits: 16
+Misses: 5409
+Task T1 allocated with 8KB
+Total occupied memory: 21644KB
+Hits: 16
+Misses: 5411
+Task T1 allocated with 36KB
+Total occupied memory: 21680KB
+Hits: 16
+Misses: 5420
+Task T1 allocated with 20KB
+Total occupied memory: 21700KB
+Hits: 16
+Misses: 5425
+Task T1 allocated with 12KB
+Total occupied memory: 21712KB
+Hits: 16
+Misses: 5428
+Task T1 allocated with 12KB
+Total occupied memory: 21724KB
+Hits: 16
+Misses: 5431
+Task T1 allocated with 40KB
+Total occupied memory: 21764KB
+Hits: 16
+Misses: 5441
+Task T1 allocated with 36KB
+Total occupied memory: 21800KB
+Hits: 16
+Misses: 5450
+Task T1 allocated with 12KB
+Total occupied memory: 21812KB
+Hits: 16
+Misses: 5453
+Task T1 allocated with 8KB
+Total occupied memory: 21820KB
+Hits: 16
+Misses: 5455
+Task T1 allocated with 40KB
+Total occupied memory: 21860KB
+Hits: 16
+Misses: 5465
+Task T1 allocated with 28KB
+Total occupied memory: 21888KB
+Hits: 16
+Misses: 5472
+Task T1 allocated with 28KB
+Total occupied memory: 21916KB
+Hits: 16
+Misses: 5479
+Task T1 allocated with 32KB
+Total occupied memory: 21948KB
+Hits: 16
+Misses: 5487
+Task T1 allocated with 32KB
+Total occupied memory: 21980KB
+Hits: 16
+Misses: 5495
+Task T1 allocated with 4KB
+Total occupied memory: 21984KB
+Hits: 16
+Misses: 5496
+Task T1 allocated with 28KB
+Total occupied memory: 22012KB
+Hits: 16
+Misses: 5503
+Task T1 allocated with 16KB
+Total occupied memory: 22028KB
+Hits: 16
+Misses: 5507
+Task T1 allocated with 40KB
+Total occupied memory: 22068KB
+Hits: 16
+Misses: 5517
+Task T1 allocated with 40KB
+Total occupied memory: 22108KB
+Hits: 16
+Misses: 5527
+Task T1 allocated with 28KB
+Total occupied memory: 22136KB
+Hits: 16
+Misses: 5534
+Task T1 allocated with 24KB
+Total occupied memory: 22160KB
+Hits: 16
+Misses: 5540
+Task T1 allocated with 28KB
+Total occupied memory: 22188KB
+Hits: 16
+Misses: 5547
